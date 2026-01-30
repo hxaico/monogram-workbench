@@ -45,4 +45,21 @@ export const configs: SearchConfig[] = [
       max_chars_per_result: 8000,
     },
   },
+
+  // You.com configurations
+  {
+    id: "you-default",
+    gateway: "you",
+    parameters: {
+      count: 5,
+    },
+  },
+  {
+    id: "you-fresh",
+    gateway: "you",
+    parameters: {
+      count: 5,
+      freshness: "week",
+    },
+  },
 ];

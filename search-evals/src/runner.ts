@@ -188,6 +188,7 @@ export async function runEvaluation(
   const requiredEnvByGateway: Record<string, string[]> = {
     tavily: ["TAVILY_API_KEY"],
     parallel: ["PARALLEL_API_KEY"],
+    you: ["YOU_API_KEY"],
   };
 
   const runnableConfigs = configs.filter((config) => {
