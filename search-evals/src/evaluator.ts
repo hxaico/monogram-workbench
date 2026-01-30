@@ -110,7 +110,11 @@ async function main(): Promise<void> {
   await evaluate(resultsPath);
 }
 
-main().catch((error) => {
-  console.error("Error during evaluation:", error);
-  process.exit(1);
-});
+// Only run main() when executed directly, not when imported
+const isMainModule = process.argv[1]?.endsWith("evaluator.js");
+if (isMainModule) {
+  main().catch((error) => {
+    console.error("Error during evaluation:", error);
+    process.exit(1);
+  });
+}
