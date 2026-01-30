@@ -12,6 +12,7 @@
     "dev": "tsc --watch"
   },
   "dependencies": {
+    "@google/genai": "^1.38.0",
     "@tavily/core": "0.5.12",
     "dotenv": "^16.4.7",
     "openai": "^4.77.0",

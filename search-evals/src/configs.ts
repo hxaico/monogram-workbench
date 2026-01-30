@@ -45,4 +45,13 @@ export const configs: SearchConfig[] = [
       max_chars_per_result: 8000,
     },
   },
+
+  // Gemini Search configurations
+  {
+    id: "gemini-search-default",
+    gateway: "gemini-search",
+    parameters: {
+      model: "gemini-3-flash-preview",
+    },
+  },
 ];
