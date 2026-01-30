@@ -3,14 +3,19 @@
  *
  * Run search evaluations against multiple gateway configurations.
  *
- * Usage: npm run eval
+ * Usage:
+ *   npm run eval          - Run searches only
+ *   npm run eval:full     - Run searches + LLM evaluation
  */
 
 import "dotenv/config";
 import { configs } from "./configs.js";
 import { runEvaluation, saveResults, printSummary } from "./runner.js";
+import { evaluate } from "./evaluator.js";
 
 async function main(): Promise<void> {
+  const withEval = process.argv.includes("--with-eval");
+
   console.log("Search Evals - Evaluation Framework");
   console.log("===================================");
   console.log("");
@@ -30,6 +35,13 @@ async function main(): Promise<void> {
     console.warn("");
   }
 
+  // Warn if --with-eval but no OpenAI key
+  if (withEval && !process.env.OPENAI_API_KEY) {
+    console.warn("Warning: --with-eval specified but OPENAI_API_KEY is not set.");
+    console.warn("LLM evaluation will fail. Set it in .env.");
+    console.warn("");
+  }
+
   try {
     // Run evaluation
     const runResult = await runEvaluation(configs);
@@ -41,6 +53,13 @@ async function main(): Promise<void> {
 
     // Print summary
     printSummary(runResult);
+
+    // Run LLM evaluation if requested
+    if (withEval) {
+      console.log("");
+      console.log("Running LLM evaluation...");
+      await evaluate(filepath);
+    }
 
     // Exit with error code if there were failures
     const errorCount = runResult.results.filter((r) => r.hasError).length;

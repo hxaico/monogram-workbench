@@ -7,10 +7,6 @@ dist/
 # Environment variables
 .env
 
-# Results (keep directory structure)
-results/*
-!results/.gitkeep
-
 # IDE
 .idea/
 .vscode/
