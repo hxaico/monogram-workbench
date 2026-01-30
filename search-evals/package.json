@@ -1,0 +1,30 @@
+{
+  "name": "search-evals",
+  "version": "1.0.0",
+  "description": "Framework for evaluating search API providers for LLM-oriented search tasks",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "eval": "tsc && node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "search",
+    "evaluation",
+    "tavily",
+    "parallel",
+    "llm"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@tavily/core": "0.5.12",
+    "dotenv": "^16.4.7",
+    "parallel-web": "^0.2.2",
+    "tiktoken": "^1.0.18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "typescript": "^5.7.3"
+  }
+}
