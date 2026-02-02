@@ -5,11 +5,13 @@
 import type { SearchGateway } from "../types.js";
 import { TavilyGateway } from "./tavily.js";
 import { ParallelGateway } from "./parallel.js";
+import { GeminiSearchGateway } from "./gemini-search.js";
 import { YouGateway } from "./you.js";
 
 const gateways: Record<string, SearchGateway> = {
   tavily: new TavilyGateway(),
   parallel: new ParallelGateway(),
+  "gemini-search": new GeminiSearchGateway(),
   you: new YouGateway(),
 };
 

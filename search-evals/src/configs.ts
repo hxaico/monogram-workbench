@@ -46,6 +46,15 @@ export const configs: SearchConfig[] = [
     },
   },
 
+  // Gemini Search configurations
+  {
+    id: "gemini-search-default",
+    gateway: "gemini-search",
+    parameters: {
+      model: "gemini-3-flash-preview",
+    },
+  },
+
   // You.com configurations
   {
     id: "you-default",

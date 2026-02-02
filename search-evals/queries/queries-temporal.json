@@ -1,8 +1,0 @@
-[
-  {
-    "query": "who did Real Madrid play last in La Liga and what was the score",
-    "groundTruth": "Real Madrid last played Villarreal in La Liga on January 24, 2026, winning with a score of 2-0.",
-    "validFrom": "2026-01-24T16:00:00Z",
-    "validUntil": "2026-02-01T13:00:00Z"
-  }
-]
