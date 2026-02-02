@@ -26,7 +26,7 @@ npm run eval
 - Queries live in `queries/queries-static.json` and `queries/queries-temporal.json`.
 - Temporal queries are only run if their `validFrom` / `validUntil` window includes the current time.
 - Results are saved as JSON in `results/` with a timestamped filename.
-- LLM evaluations are saved in `evals/` with the same filename as the corresponding results.
+- LLM evaluations are saved in `evals/` with the same filename as the corresponding results. Each eval entry matches the index of its respective result.
 
 ## LLM Evaluator
 

@@ -55,19 +55,31 @@ Output a JSON array with one evaluation object per scored result:
 [
   {
     "configId": "tavily-basic",
+    "gateway": "tavily",
     "query": "Who won the 2022 FIFA World Cup?",
+    "groundTruth": "Argentina won the 2022 FIFA World Cup, defeating France in the final",
+    "latencyMs": 1234,
+    "tokenCount": 567,
     "score": 10,
     "reasoning": "Ground truth fully present. Multiple results confirm Argentina won the 2022 World Cup defeating France in the final."
   },
   {
     "configId": "parallel-default",
+    "gateway": "parallel",
     "query": "Who is the current CEO of OpenAI?",
+    "groundTruth": "Sam Altman is the CEO of OpenAI",
+    "latencyMs": 890,
+    "tokenCount": 432,
     "score": 7,
     "reasoning": "Results mention Sam Altman as CEO but lack recent confirmation. No contradictory information."
   },
   {
     "configId": "tavily-basic",
+    "gateway": "tavily",
     "query": "What was Real Madrid's last game?",
+    "groundTruth": "Real Madrid beat Valencia 3-0 on January 28, 2026",
+    "latencyMs": 1100,
+    "tokenCount": 789,
     "score": 0,
     "reasoning": "No results mention the January 28 game against Valencia. Results show older match information."
   }
@@ -77,7 +89,9 @@ Output a JSON array with one evaluation object per scored result:
 ## Output Requirements
 
 - Output **only** the JSON array, no additional commentary
-- Include `configId` and `query` to identify each evaluation
+- Include `configId`, `gateway`, and `query` to identify each evaluation
+- Include `groundTruth` (copied from the input result)
+- Include `latencyMs` and `tokenCount` from `response.latencyMs` and `response.tokenCount`
 - Keep `reasoning` brief (1-2 sentences) but specific
 - Skip results with no ground truth or with errors (do not include them in output)
 
@@ -111,7 +125,11 @@ Output a JSON array with one evaluation object per scored result:
 ```json
 {
   "configId": "tavily-basic",
+  "gateway": "tavily",
   "query": "Who won the 2022 FIFA World Cup?",
+  "groundTruth": "Argentina won the 2022 FIFA World Cup, defeating France in the final",
+  "latencyMs": 1016,
+  "tokenCount": 984,
   "score": 10,
   "reasoning": "Ground truth fully present. Multiple results clearly state Argentina won the 2022 World Cup defeating France."
 }

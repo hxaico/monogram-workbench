@@ -14,6 +14,7 @@
   "dependencies": {
     "@google/genai": "^1.38.0",
     "@tavily/core": "0.5.12",
+    "@youdotcom-oss/sdk": "^0.10.21",
     "dotenv": "^16.4.7",
     "openai": "^4.77.0",
     "parallel-web": "^0.2.2",

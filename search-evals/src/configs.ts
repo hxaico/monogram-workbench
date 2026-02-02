@@ -54,4 +54,21 @@ export const configs: SearchConfig[] = [
       model: "gemini-3-flash-preview",
     },
   },
+
+  // You.com configurations
+  {
+    id: "you-default",
+    gateway: "you",
+    parameters: {
+      count: 5,
+    },
+  },
+  {
+    id: "you-fresh",
+    gateway: "you",
+    parameters: {
+      count: 5,
+      freshness: "week",
+    },
+  },
 ];
