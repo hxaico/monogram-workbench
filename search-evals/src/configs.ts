@@ -71,4 +71,21 @@ export const configs: SearchConfig[] = [
       freshness: "week",
     },
   },
+
+  // Perplexity configurations
+  {
+    id: "perplexity-default",
+    gateway: "perplexity",
+    parameters: {
+      max_results: 5,
+    },
+  },
+  {
+    id: "perplexity-fresh",
+    gateway: "perplexity",
+    parameters: {
+      max_results: 5,
+      search_recency_filter: "week",
+    },
+  },
 ];

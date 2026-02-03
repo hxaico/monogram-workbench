@@ -1,0 +1,182 @@
+[
+  {
+    "configId": "tavily-basic",
+    "gateway": "tavily",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 1404,
+    "tokenCount": 1368,
+    "score": 9,
+    "reasoning": "TNT Sports standings snippet clearly shows Real Madrid 1st with 95 points. One result discusses 2024-25 standings (Barcelona champions) which could slightly distract but does not contradict 2023-24."
+  },
+  {
+    "configId": "tavily-advanced",
+    "gateway": "tavily",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 4532,
+    "tokenCount": 3730,
+    "score": 10,
+    "reasoning": "Wikipedia snippet explicitly lists Champions: Real Madrid and league table shows 95 points; the generated answer also states Real Madrid won with 95 points."
+  },
+  {
+    "configId": "parallel-default",
+    "gateway": "parallel",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 3402,
+    "tokenCount": 1924,
+    "score": 8,
+    "reasoning": "Results clearly state Real Madrid were champions, but the excerpt shown does not include the 95-point total (league table details are not present in the excerpt)."
+  },
+  {
+    "configId": "parallel-extended",
+    "gateway": "parallel",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 3447,
+    "tokenCount": 10621,
+    "score": 9,
+    "reasoning": "TNT Sports standings excerpt shows Real Madrid top with 95 points, and other sources confirm they won the title. Minor noise from unrelated season info but no contradiction."
+  },
+  {
+    "configId": "gemini-search-default",
+    "gateway": "gemini-search",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 4427,
+    "tokenCount": 6544,
+    "score": 10,
+    "reasoning": "The response text directly states Real Madrid won 2023–24 La Liga and finished with 95 points."
+  },
+  {
+    "configId": "you-default",
+    "gateway": "you",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 817,
+    "tokenCount": 3626,
+    "score": 10,
+    "reasoning": "One result explicitly says Real Madrid's 2023/24 title was won with 95 points, and other results confirm Real Madrid were champions."
+  },
+  {
+    "configId": "you-fresh",
+    "gateway": "you",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 680,
+    "tokenCount": 3506,
+    "score": 3,
+    "reasoning": "Fresh-week results do not contain the 2023-24 champion/points; they focus on general LaLiga pages and 2025-26/other topics, so the ground truth can't be extracted."
+  },
+  {
+    "configId": "perplexity-default",
+    "gateway": "perplexity",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 440,
+    "tokenCount": 17546,
+    "score": 10,
+    "reasoning": "Multiple snippets include the league table line showing Real Madrid as champions with 95 points."
+  },
+  {
+    "configId": "perplexity-fresh",
+    "gateway": "perplexity",
+    "query": "Which football team won La Liga in 2023-24 and how many points did they end the season with?",
+    "groundTruth": "Real Madrid won La Liga in the 2023–24 season. They finished the season with 95 points",
+    "latencyMs": 390,
+    "tokenCount": 17547,
+    "score": 10,
+    "reasoning": "Despite the recency filter, results still show the 2023–24 La Liga entry and include Real Madrid as champions with 95 points."
+  },
+  {
+    "configId": "tavily-basic",
+    "gateway": "tavily",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 1167,
+    "tokenCount": 1642,
+    "score": 9,
+    "reasoning": "BBC/ESPN results explicitly show Real Madrid 2-1 Rayo Vallecano and ESPN includes Feb 1, 2026. LaLiga results snippet shown is older (Dec 2025) which could confuse slightly."
+  },
+  {
+    "configId": "tavily-advanced",
+    "gateway": "tavily",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 2083,
+    "tokenCount": 4078,
+    "score": 2,
+    "reasoning": "The provided 'answer' incorrectly says the last La Liga match was vs Celta Vigo on Oct 4, 2025, contradicting other snippets. While other results hint at Rayo, the prominent wrong answer makes extraction unreliable."
+  },
+  {
+    "configId": "parallel-default",
+    "gateway": "parallel",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 3345,
+    "tokenCount": 1807,
+    "score": 10,
+    "reasoning": "Sofascore excerpt explicitly states Real Madrid's previous match was vs Rayo Vallecano in LaLiga and ended 2-1 with Real Madrid winning."
+  },
+  {
+    "configId": "parallel-extended",
+    "gateway": "parallel",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 2479,
+    "tokenCount": 10288,
+    "score": 8,
+    "reasoning": "StatMuse excerpt shows the Feb 1, 2026 match vs Rayo and the 2-1 win, supporting the ground truth. ESPN page excerpt is noisy and doesn't clearly state 'last match' in the shown text."
+  },
+  {
+    "configId": "gemini-search-default",
+    "gateway": "gemini-search",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 4314,
+    "tokenCount": 7529,
+    "score": 10,
+    "reasoning": "The response directly states the opponent (Rayo Vallecano), date (Feb 1, 2026), and score (2–1) matching the ground truth."
+  },
+  {
+    "configId": "you-default",
+    "gateway": "you",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 727,
+    "tokenCount": 2177,
+    "score": 8,
+    "reasoning": "Al Jazeera result title indicates Real Madrid vs Rayo Vallecano 2-1, making opponent and score clear, but the date Feb 1, 2026 is not shown in the snippets."
+  },
+  {
+    "configId": "you-fresh",
+    "gateway": "you",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 600,
+    "tokenCount": 3338,
+    "score": 7,
+    "reasoning": "Fresh results include an Al Jazeera page titled Real Madrid vs Rayo Vallecano 2-1, giving opponent and score; however the date Feb 1, 2026 is not explicitly present in snippets."
+  },
+  {
+    "configId": "perplexity-default",
+    "gateway": "perplexity",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 394,
+    "tokenCount": 11779,
+    "score": 10,
+    "reasoning": "LaLiga results snippet explicitly lists 'DOM 01.02.2026 Real Madrid 2 - 1 Rayo Vallecano', fully matching the ground truth."
+  },
+  {
+    "configId": "perplexity-fresh",
+    "gateway": "perplexity",
+    "query": "who did Real Madrid play last in La Liga and what was the score",
+    "groundTruth": "Real Madrid last played Rayo Vallecano in La Liga on February 1, 2026, winning with a score of 2-1.",
+    "latencyMs": 477,
+    "tokenCount": 11782,
+    "score": 10,
+    "reasoning": "Includes the LaLiga results table entry for 01.02.2026 showing Real Madrid 2-1 Rayo Vallecano, enabling direct extraction of date/opponent/score."
+  }
+]
