@@ -1,0 +1,658 @@
+[
+  {
+    "id": "Q124822667",
+    "label": "shallow poaching"
+  },
+  {
+    "id": "Q134376083",
+    "label": "Cake mixing techniques"
+  },
+  {
+    "id": "Q134401232",
+    "label": "food washing"
+  },
+  {
+    "id": "Q114049695",
+    "label": "cutting"
+  },
+  {
+    "id": "Q114049617",
+    "label": "carve"
+  },
+  {
+    "id": "Q124734797",
+    "label": "Aron"
+  },
+  {
+    "id": "Q117275822",
+    "label": "sujime"
+  },
+  {
+    "id": "Q134885440",
+    "label": "simmering"
+  },
+  {
+    "id": "Q41760",
+    "label": "fermentation"
+  },
+  {
+    "id": "Q22847",
+    "label": "rotisserie"
+  },
+  {
+    "id": "Q193713",
+    "label": "smoking"
+  },
+  {
+    "id": "Q181570",
+    "label": "al dente"
+  },
+  {
+    "id": "Q45540",
+    "label": "Maggi goreng"
+  },
+  {
+    "id": "Q240164",
+    "label": "stewing"
+  },
+  {
+    "id": "Q263588",
+    "label": "poaching"
+  },
+  {
+    "id": "Q264619",
+    "label": "grilling"
+  },
+  {
+    "id": "Q322444",
+    "label": "deglazing"
+  },
+  {
+    "id": "Q332133",
+    "label": "shocking"
+  },
+  {
+    "id": "Q386003",
+    "label": "flambé"
+  },
+  {
+    "id": "Q461696",
+    "label": "barbecue"
+  },
+  {
+    "id": "Q350990",
+    "label": "meat carving"
+  },
+  {
+    "id": "Q647175",
+    "label": "teriyaki"
+  },
+  {
+    "id": "Q720398",
+    "label": "baking"
+  },
+  {
+    "id": "Q725668",
+    "label": "marinating"
+  },
+  {
+    "id": "Q784148",
+    "label": "braising"
+  },
+  {
+    "id": "Q791790",
+    "label": "fricassee"
+  },
+  {
+    "id": "Q854618",
+    "label": "deep frying"
+  },
+  {
+    "id": "Q911646",
+    "label": "brining"
+  },
+  {
+    "id": "Q1104399",
+    "label": "karaage"
+  },
+  {
+    "id": "Q909700",
+    "label": "jorim"
+  },
+  {
+    "id": "Q1415859",
+    "label": "steaming"
+  },
+  {
+    "id": "Q1135539",
+    "label": "nukazuke"
+  },
+  {
+    "id": "Q1186334",
+    "label": "hangi"
+  },
+  {
+    "id": "Q1393428",
+    "label": "salmis"
+  },
+  {
+    "id": "Q1503967",
+    "label": "pickling"
+  },
+  {
+    "id": "Q1483514",
+    "label": "searing"
+  },
+  {
+    "id": "Q1417461",
+    "label": "sous vide"
+  },
+  {
+    "id": "Q1571226",
+    "label": "breading"
+  },
+  {
+    "id": "Q1521462",
+    "label": "sautéing"
+  },
+  {
+    "id": "Q1971485",
+    "label": "reduction"
+  },
+  {
+    "id": "Q2425803",
+    "label": "basting"
+  },
+  {
+    "id": "Q3089784",
+    "label": "kneading"
+  },
+  {
+    "id": "Q2760809",
+    "label": "browning"
+  },
+  {
+    "id": "Q2915733",
+    "label": "red cooking"
+  },
+  {
+    "id": "Q3309953",
+    "label": "steeping"
+  },
+  {
+    "id": "Q4922798",
+    "label": "blackening"
+  },
+  {
+    "id": "Q4865573",
+    "label": "roasting"
+  },
+  {
+    "id": "Q4839852",
+    "label": "backwoods cooking"
+  },
+  {
+    "id": "Q4976551",
+    "label": "browning"
+  },
+  {
+    "id": "Q5306852",
+    "label": "dredging"
+  },
+  {
+    "id": "Q5514687",
+    "label": "food drying"
+  },
+  {
+    "id": "Q6305202",
+    "label": "juicing"
+  },
+  {
+    "id": "Q5465448",
+    "label": "food coating"
+  },
+  {
+    "id": "Q4926488",
+    "label": "blind-baking"
+  },
+  {
+    "id": "Q5796335",
+    "label": "Parrilla venezolana"
+  },
+  {
+    "id": "Q6723260",
+    "label": "maceration"
+  },
+  {
+    "id": "Q7546501",
+    "label": "smothering"
+  },
+  {
+    "id": "Q6950796",
+    "label": "fermented food"
+  },
+  {
+    "id": "Q7037735",
+    "label": "nimono"
+  },
+  {
+    "id": "Q7042787",
+    "label": "no-knead bread"
+  },
+  {
+    "id": "Q7198568",
+    "label": "pit barbecue"
+  },
+  {
+    "id": "Q7547269",
+    "label": "snap freezing"
+  },
+  {
+    "id": "Q7783036",
+    "label": "retained heat cooking"
+  },
+  {
+    "id": "Q9385644",
+    "label": "mashing"
+  },
+  {
+    "id": "Q10860338",
+    "label": "dry roasting"
+  },
+  {
+    "id": "Q11060616",
+    "label": "gan guo"
+  },
+  {
+    "id": "Q11262341",
+    "label": "ohitashi"
+  },
+  {
+    "id": "Q11318890",
+    "label": "zuke"
+  },
+  {
+    "id": "Q11428861",
+    "label": "boiling in salt water"
+  },
+  {
+    "id": "Q11433503",
+    "label": "yamatoni"
+  },
+  {
+    "id": "Q11479847",
+    "label": "Sashimizu"
+  },
+  {
+    "id": "Q11511882",
+    "label": "kobujime"
+  },
+  {
+    "id": "Q11555772",
+    "label": "arai"
+  },
+  {
+    "id": "Q11563774",
+    "label": "Water roux"
+  },
+  {
+    "id": "Q8980672",
+    "label": "stir frying"
+  },
+  {
+    "id": "Q9384765",
+    "label": "ganbian"
+  },
+  {
+    "id": "Q96623210",
+    "label": "gratinating"
+  },
+  {
+    "id": "Q98792796",
+    "label": "mochi pounding"
+  },
+  {
+    "id": "Q97654638",
+    "label": "creaming"
+  },
+  {
+    "id": "Q104383007",
+    "label": "sweet and sour"
+  },
+  {
+    "id": "Q108570484",
+    "label": "pounding"
+  },
+  {
+    "id": "Q65087240",
+    "label": "Philippine asado"
+  },
+  {
+    "id": "Q106751622",
+    "label": "suage"
+  },
+  {
+    "id": "Q106900682",
+    "label": "washing meat"
+  },
+  {
+    "id": "Q93454277",
+    "label": "pressure cooking"
+  },
+  {
+    "id": "Q20074315",
+    "label": "boiling"
+  },
+  {
+    "id": "Q11648097",
+    "label": "kamaage"
+  },
+  {
+    "id": "Q11697651",
+    "label": "en papillote"
+  },
+  {
+    "id": "Q17217668",
+    "label": "mirinboshi"
+  },
+  {
+    "id": "Q24961181",
+    "label": "Rehogar"
+  },
+  {
+    "id": "Q28691571",
+    "label": "salt crust"
+  },
+  {
+    "id": "Q48782623",
+    "label": "torrefacto"
+  },
+  {
+    "id": "Q300472",
+    "label": "frying"
+  },
+  {
+    "id": "Q301301",
+    "label": "Nespresso"
+  },
+  {
+    "id": "Q506763",
+    "label": "blanching"
+  },
+  {
+    "id": "Q569426",
+    "label": "sweating"
+  },
+  {
+    "id": "Q379697",
+    "label": "mixing"
+  },
+  {
+    "id": "Q745361",
+    "label": "stuffing"
+  },
+  {
+    "id": "Q784688",
+    "label": "spherification"
+  },
+  {
+    "id": "Q1280253",
+    "label": "mounting"
+  },
+  {
+    "id": "Q1165158",
+    "label": "homogenization"
+  },
+  {
+    "id": "Q1251313",
+    "label": "single-serve coffee container"
+  },
+  {
+    "id": "Q1437350",
+    "label": "low-temperature cooking"
+  },
+  {
+    "id": "Q1494159",
+    "label": "proofing"
+  },
+  {
+    "id": "Q1976944",
+    "label": "blending"
+  },
+  {
+    "id": "Q2139722",
+    "label": "carbonation"
+  },
+  {
+    "id": "Q2826873",
+    "label": "stirring"
+  },
+  {
+    "id": "Q2916087",
+    "label": "churning"
+  },
+  {
+    "id": "Q3133701",
+    "label": "dissolution"
+  },
+  {
+    "id": "Q2352129",
+    "label": "chuño"
+  },
+  {
+    "id": "Q3222589",
+    "label": "Chaunk"
+  },
+  {
+    "id": "Q11360922",
+    "label": "preparation"
+  },
+  {
+    "id": "Q11795121",
+    "label": "cooking technique"
+  },
+  {
+    "id": "Q12473144",
+    "label": "bacem"
+  },
+  {
+    "id": "Q7620632",
+    "label": "Stove Top stuffing"
+  },
+  {
+    "id": "Q3687773",
+    "label": "contamination"
+  },
+  {
+    "id": "Q5183387",
+    "label": "creaming"
+  },
+  {
+    "id": "Q6468645",
+    "label": "lacing"
+  },
+  {
+    "id": "Q3895837",
+    "label": "Jalea"
+  },
+  {
+    "id": "Q3401308",
+    "label": "praliné"
+  },
+  {
+    "id": "Q3687772",
+    "label": "contaminatio"
+  },
+  {
+    "id": "Q3895235",
+    "label": "Hildebrand solubility parameter"
+  },
+  {
+    "id": "Q4185902",
+    "label": "parbaking"
+  },
+  {
+    "id": "Q4236462",
+    "label": "coffee capsule"
+  },
+  {
+    "id": "Q4445028",
+    "label": "sublimation brew"
+  },
+  {
+    "id": "Q4544011",
+    "label": "enrober"
+  },
+  {
+    "id": "Q5533694",
+    "label": "gentle frying"
+  },
+  {
+    "id": "Q5910832",
+    "label": "hot salt frying"
+  },
+  {
+    "id": "Q7487285",
+    "label": "shallow frying"
+  },
+  {
+    "id": "Q25345654",
+    "label": "homogenization"
+  },
+  {
+    "id": "Q29946302",
+    "label": "whisking"
+  },
+  {
+    "id": "Q15726911",
+    "label": "Turkish coffee"
+  },
+  {
+    "id": "Q16913726",
+    "label": "Coal homogenization"
+  },
+  {
+    "id": "Q17073916",
+    "label": "pan frying"
+  },
+  {
+    "id": "Q19725989",
+    "label": "Godok-godok"
+  },
+  {
+    "id": "Q19732533",
+    "label": "Seblak"
+  },
+  {
+    "id": "Q19903001",
+    "label": "coffee preparation"
+  },
+  {
+    "id": "Q30918987",
+    "label": "Abisinios"
+  },
+  {
+    "id": "Q55629806",
+    "label": "phat kaphrao"
+  },
+  {
+    "id": "Q137590135",
+    "label": "heating"
+  },
+  {
+    "id": "Q137590031",
+    "label": "drizzling"
+  },
+  {
+    "id": "Q137589911",
+    "label": "thickening"
+  },
+  {
+    "id": "Q137590082",
+    "label": "shattering"
+  },
+  {
+    "id": "Q124815665",
+    "label": "liquid–solid mixing"
+  },
+  {
+    "id": "Q124822584",
+    "label": "frying waina in oil"
+  },
+  {
+    "id": "Q124822599",
+    "label": "frying anything except waina in oil"
+  },
+  {
+    "id": "Q124822578",
+    "label": "oil frying"
+  },
+  {
+    "id": "Q131730781",
+    "label": "Kharkiv-style cutlets"
+  },
+  {
+    "id": "Q94693816",
+    "label": "concrete carbonatization"
+  },
+  {
+    "id": "Q96386076",
+    "label": "Kitchen hack"
+  },
+  {
+    "id": "Q97202291",
+    "label": "Kahangga"
+  },
+  {
+    "id": "Q98833359",
+    "label": "fire-grill"
+  },
+  {
+    "id": "Q124846236",
+    "label": "diapycnal mixing"
+  },
+  {
+    "id": "Q65127885",
+    "label": "Mousseline"
+  },
+  {
+    "id": "Q60534948",
+    "label": "coffee pad"
+  },
+  {
+    "id": "Q107353602",
+    "label": "blending"
+  },
+  {
+    "id": "Q107246427",
+    "label": "apple stuffing"
+  },
+  {
+    "id": "Q107246471",
+    "label": "chicken stuffing"
+  },
+  {
+    "id": "Q107246610",
+    "label": "fish stuffing"
+  },
+  {
+    "id": "Q107246645",
+    "label": "meat stuffing"
+  },
+  {
+    "id": "Q110801361",
+    "label": "tissue homogenization"
+  },
+  {
+    "id": "Q115618523",
+    "label": "pie and pastry fillings"
+  },
+  {
+    "id": "Q134879676",
+    "label": "larding"
+  },
+  {
+    "id": "Q134879689",
+    "label": "pureeing"
+  }
+]

@@ -1,8 +1,8 @@
-# Food ingredients - types only (not specific products)
+# Fitness equipment - types only (not specific products)
 SELECT DISTINCT ?item ?itemLabel WHERE {
-  ?item wdt:P279+ wd:Q25403900 .  # subclass of food ingredient (not instances)
+  ?item wdt:P279+ wd:Q352222 .  # subclass of exercise equipment (types only)
   ?item rdfs:label ?itemLabel .
   FILTER(LANG(?itemLabel) = "en")
   FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
 }
-LIMIT 1000
+LIMIT 500

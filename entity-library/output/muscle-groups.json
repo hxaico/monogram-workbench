@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "Q1478578",
+    "label": "extensor digitorum lateralis muscle"
+  },
+  {
+    "id": "Q1500559",
+    "label": "flexor hallucis longus muscle"
+  },
+  {
+    "id": "Q1500758",
+    "label": "obturator internus muscle"
+  },
+  {
+    "id": "Q1501677",
+    "label": "pectineus muscle"
+  },
+  {
+    "id": "Q1508879",
+    "label": "iliacus muscle"
+  },
+  {
+    "id": "Q846480",
+    "label": "buccinator muscle"
+  },
+  {
+    "id": "Q847092",
+    "label": "extensor carpi radialis longus muscle"
+  },
+  {
+    "id": "Q847112",
+    "label": "flexor digitorum superficialis muscle"
+  },
+  {
+    "id": "Q847458",
+    "label": "extensor carpi radialis brevis muscle"
+  },
+  {
+    "id": "Q19030",
+    "label": "extensor digiti minimi muscle"
+  },
+  {
+    "id": "Q19087",
+    "label": "infraspinatus muscle"
+  },
+  {
+    "id": "Q44161",
+    "label": "lumbricals of the foot"
+  },
+  {
+    "id": "Q56658",
+    "label": "teres major muscle"
+  },
+  {
+    "id": "Q1550323",
+    "label": "psoas major muscle"
+  },
+  {
+    "id": "Q1551135",
+    "label": "adductor brevis muscle"
+  },
+  {
+    "id": "Q1551145",
+    "label": "tibialis posterior muscle"
+  },
+  {
+    "id": "Q1590935",
+    "label": "vastus medialis"
+  },
+  {
+    "id": "Q74959",
+    "label": "supraspinatus muscle"
+  },
+  {
+    "id": "Q74963",
+    "label": "teres minor muscle"
+  },
+  {
+    "id": "Q83379",
+    "label": "triceps brachii muscle"
+  },
+  {
+    "id": "Q1716291",
+    "label": "musculus omotransversarius"
+  },
+  {
+    "id": "Q1719061",
+    "label": "flexor hallucis brevis muscle"
+  },
+  {
+    "id": "Q1723682",
+    "label": "fibularis brevis muscle"
+  },
+  {
+    "id": "Q1724194",
+    "label": "cremaster muscle"
+  },
+  {
+    "id": "Q1732695",
+    "label": "superior gemellus muscle"
+  },
+  {
+    "id": "Q204113",
+    "label": "trapezius muscle"
+  },
+  {
+    "id": "Q225308",
+    "label": "semispinalis cervicis"
+  },
+  {
+    "id": "Q247359",
+    "label": "hyoglossus"
+  },
+  {
+    "id": "Q914148",
+    "label": "scalenus anterior"
+  },
+  {
+    "id": "Q914475",
+    "label": "flexor carpi radialis muscle"
+  },
+  {
+    "id": "Q915948",
+    "label": "abductor pollicis longus muscle"
+  },
+  {
+    "id": "Q920567",
+    "label": "serratus posterior inferior muscle"
+  },
+  {
+    "id": "Q130050",
+    "label": "subscapularis muscle"
+  },
+  {
+    "id": "Q130086",
+    "label": "subclavius muscle"
+  },
+  {
+    "id": "Q147912",
+    "label": "inferior longitudinal muscle of tongue"
+  },
+  {
+    "id": "Q254643",
+    "label": "tensor tympani muscle"
+  },
+  {
+    "id": "Q254855",
+    "label": "middle pharyngeal constrictor muscle"
+  },
+  {
+    "id": "Q257609",
+    "label": "Flexor pollicis brevis muscle"
+  },
+  {
+    "id": "Q261411",
+    "label": "cricothyroid muscle"
+  },
+  {
+    "id": "Q266980",
+    "label": "vertical muscle of tongue"
+  },
+  {
+    "id": "Q1756762",
+    "label": "obturator externus muscle"
+  },
+  {
+    "id": "Q1756826",
+    "label": "pyramidalis muscle"
+  },
+  {
+    "id": "Q1757893",
+    "label": "bulbospongiosus muscle"
+  },
+  {
+    "id": "Q1757887",
+    "label": "fibularis tertius"
+  },
+  {
+    "id": "Q1812578",
+    "label": "vastus intermedius muscle"
+  },
+  {
+    "id": "Q272830",
+    "label": "sternocleidomastoid muscle"
+  },
+  {
+    "id": "Q275150",
+    "label": "rectus abdominis muscle"
+  },
+  {
+    "id": "Q1633822",
+    "label": "rectus femoris muscle"
+  },
+  {
+    "id": "Q1640816",
+    "label": "articularis genu muscle"
+  },
+  {
+    "id": "Q1665277",
+    "label": "quadratus plantae muscle"
+  },
+  {
+    "id": "Q1684283",
+    "label": "extensor digitorum longus muscle"
+  },
+  {
+    "id": "Q1688555",
+    "label": "extensor digitorum brevis muscle"
+  },
+  {
+    "id": "Q901571",
+    "label": "flexor pollicis longus muscle"
+  },
+  {
+    "id": "Q901538",
+    "label": "rhomboid minor muscle"
+  },
+  {
+    "id": "Q913366",
+    "label": "superior oblique muscle"
+  },
+  {
+    "id": "Q913958",
+    "label": "Levator anguli oris"
+  },
+  {
+    "id": "Q504536",
+    "label": "quadriceps femoris muscle"
+  },
+  {
+    "id": "Q507538",
+    "label": "stapedius muscle"
+  },
+  {
+    "id": "Q523799",
+    "label": "gluteus minimus muscle"
+  },
+  {
+    "id": "Q1892025",
+    "label": "flexor digitorum longus muscle"
+  },
+  {
+    "id": "Q1892060",
+    "label": "inferior gemellus muscle"
+  },
+  {
+    "id": "Q1913658",
+    "label": "papillary muscles"
+  },
+  {
+    "id": "Q1954102",
+    "label": "adductor hallucis muscle"
+  },
+  {
+    "id": "Q1954136",
+    "label": "opponens digiti minimi of foot"
+  },
+  {
+    "id": "Q1049279",
+    "label": "omohyoid muscle"
+  },
+  {
+    "id": "Q1051437",
+    "label": "inferior oblique muscle"
+  },
+  {
+    "id": "Q1051407",
+    "label": "obliquus capitis superior muscle"
+  },
+  {
+    "id": "Q1051430",
+    "label": "obliquus capitis inferior muscle"
+  },
+  {
+    "id": "Q899783",
+    "label": "stylohyoid muscle"
+  },
+  {
+    "id": "Q900610",
+    "label": "subcostalis muscle"
+  },
+  {
+    "id": "Q901101",
+    "label": "extensor digitorum muscle of hand"
+  },
+  {
+    "id": "Q901116",
+    "label": "extensor pollicis brevis muscle"
+  },
+  {
+    "id": "Q923875",
+    "label": "superior auricular muscle"
+  },
+  {
+    "id": "Q925888",
+    "label": "sternohyoid muscle"
+  },
+  {
+    "id": "Q926216",
+    "label": "posterior auricular muscle"
+  },
+  {
+    "id": "Q927901",
+    "label": "mylohyoid muscle"
+  },
+  {
+    "id": "Q931622",
+    "label": "opponens pollicis muscle"
+  },
+  {
+    "id": "Q955110",
+    "label": "scalenus posterior"
+  },
+  {
+    "id": "Q955788",
+    "label": "palmaris brevis muscle"
+  },
+  {
+    "id": "Q968958",
+    "label": "transverse muscle of auricle"
+  },
+  {
+    "id": "Q975054",
+    "label": "tibialis anterior muscle"
+  },
+  {
+    "id": "Q537123",
+    "label": "levator ani"
+  },
+  {
+    "id": "Q537486",
+    "label": "superior pharyngeal constrictor muscle"
+  },
+  {
+    "id": "Q545171",
+    "label": "sternothyroid muscle"
+  },
+  {
+    "id": "Q568055",
+    "label": "detrusor urinae muscle"
+  },
+  {
+    "id": "Q574632",
+    "label": "extensor pollicis longus muscle"
+  },
+  {
+    "id": "Q196002",
+    "label": "hamstring muscles"
+  },
+  {
+    "id": "Q201363",
+    "label": "biceps brachii"
+  },
+  {
+    "id": "Q599406",
+    "label": "temporal muscle"
+  },
+  {
+    "id": "Q601016",
+    "label": "biceps femoris muscle"
+  },
+  {
+    "id": "Q611369",
+    "label": "ischiocavernosus muscle"
+  },
+  {
+    "id": "Q279039",
+    "label": "flexor carpi ulnaris muscle"
+  },
+  {
+    "id": "Q283673",
+    "label": "latissimus dorsi muscle"
+  },
+  {
+    "id": "Q301876",
+    "label": "levator labii superioris alaeque nasi muscle"
+  },
+  {
+    "id": "Q524064",
+    "label": "supinator muscle"
+  },
+  {
+    "id": "Q526403",
+    "label": "anconeus muscle"
+  },
+  {
+    "id": "Q526239",
+    "label": "plantaris muscle"
+  },
+  {
+    "id": "Q579449",
+    "label": "stylopharyngeus muscle"
+  },
+  {
+    "id": "Q579641",
+    "label": "rectus capitis lateralis muscle"
+  },
+  {
+    "id": "Q580326",
+    "label": "genioglossus"
+  },
+  {
+    "id": "Q589085",
+    "label": "depressor anguli oris muscle"
+  },
+  {
+    "id": "Q597112",
+    "label": "nasalis muscle"
+  },
+  {
+    "id": "Q612033",
+    "label": "thyro-epiglottic part of thyro-arytenoid muscle"
+  },
+  {
+    "id": "Q612325",
+    "label": "zygomaticus major muscle"
+  },
+  {
+    "id": "Q614557",
+    "label": "frontalis muscle"
+  },
+  {
+    "id": "Q617389",
+    "label": "rhomboid major muscle"
+  },
+  {
+    "id": "Q636624",
+    "label": "procerus muscle"
+  },
+  {
+    "id": "Q1954164",
+    "label": "soleus muscle"
+  },
+  {
+    "id": "Q1954156",
+    "label": "tensor fasciae antebrachii muscle"
+  },
+  {
+    "id": "Q2012698",
+    "label": "longissimus thoracis"
+  },
+  {
+    "id": "Q2083654",
+    "label": "iliopsoas"
+  },
+  {
+    "id": "Q2799932",
+    "label": "semispinalis thoracis"
+  },
+  {
+    "id": "Q2976828",
+    "label": "transverse muscle of the chin"
+  },
+  {
+    "id": "Q3302518",
+    "label": "intercostal muscle"
+  },
+  {
+    "id": "Q1064676",
+    "label": "opponens digiti minimi muscle of hand"
+  },
+  {
+    "id": "Q1065866",
+    "label": "Adductor pollicis muscle"
+  },
+  {
+    "id": "Q1071881",
+    "label": "semispinalis capitis"
+  },
+  {
+    "id": "Q1072007",
+    "label": "geniohyoid muscle"
+  },
+  {
+    "id": "Q1051688",
+    "label": "mentalis"
+  },
+  {
+    "id": "Q1051835",
+    "label": "lateral rectus muscle"
+  },
+  {
+    "id": "Q1055786",
+    "label": "longus capitis muscle"
+  },
+  {
+    "id": "Q1055797",
+    "label": "longus colli muscle"
+  },
+  {
+    "id": "Q1059818",
+    "label": "coccygeus muscle"
+  },
+  {
+    "id": "Q1033231",
+    "label": "temporoparietalis muscle"
+  },
+  {
+    "id": "Q1048134",
+    "label": "superior longitudinal muscle of tongue"
+  },
+  {
+    "id": "Q975459",
+    "label": "vastus lateralis muscle"
+  },
+  {
+    "id": "Q977221",
+    "label": "lateral pterygoid muscle"
+  },
+  {
+    "id": "Q979143",
+    "label": "depressor supercilii muscle"
+  },
+  {
+    "id": "Q1072039",
+    "label": "thyrohyoid muscle"
+  },
+  {
+    "id": "Q1073818",
+    "label": "iris sphincter muscle"
+  },
+  {
+    "id": "Q1073843",
+    "label": "zygomaticus minor muscle"
+  },
+  {
+    "id": "Q1073869",
+    "label": "tensor veli palatini muscle"
+  },
+  {
+    "id": "Q932557",
+    "label": "occipitofrontalis muscle"
+  },
+  {
+    "id": "Q932571",
+    "label": "thyroarytenoid muscle"
+  },
+  {
+    "id": "Q932587",
+    "label": "levator labii superioris"
+  },
+  {
+    "id": "Q932609",
+    "label": "palatopharyngeus muscle"
+  },
+  {
+    "id": "Q1089155",
+    "label": "abductor digiti minimi muscle of foot"
+  },
+  {
+    "id": "Q1090267",
+    "label": "inferior rectus muscle"
+  },
+  {
+    "id": "Q1090541",
+    "label": "medial rectus muscle"
+  },
+  {
+    "id": "Q1090548",
+    "label": "superior rectus muscle"
+  },
+  {
+    "id": "Q1091300",
+    "label": "depressor septi nasi muscle"
+  },
+  {
+    "id": "Q840592",
+    "label": "flexor digitorum profundus muscle"
+  },
+  {
+    "id": "Q841422",
+    "label": "platysma muscle"
+  },
+  {
+    "id": "Q841536",
+    "label": "risorius muscle"
+  },
+  {
+    "id": "Q527634",
+    "label": "extensor carpi ulnaris muscle"
+  },
+  {
+    "id": "Q530279",
+    "label": "orbicularis oculi muscle"
+  },
+  {
+    "id": "Q532798",
+    "label": "pectoralis major"
+  },
+  {
+    "id": "Q122781515",
+    "label": "abductor of fifth metatarsal"
+  },
+  {
+    "id": "Q125161709",
+    "label": "transversus nuchae muscle"
+  },
+  {
+    "id": "Q27055728",
+    "label": "acromiotrapezius muscle"
+  },
+  {
+    "id": "Q27055737",
+    "label": "clavotrapezius muscle"
+  },
+  {
+    "id": "Q27055729",
+    "label": "spinotrapezius muscle"
+  },
+  {
+    "id": "Q136352187",
+    "label": "vastus medialis obliquus"
+  },
+  {
+    "id": "Q136352195",
+    "label": "vastus medialis longus"
+  },
+  {
+    "id": "Q48817238",
+    "label": "pubovaginalis muscle"
+  },
+  {
+    "id": "Q66526746",
+    "label": "first lumbrical of hand"
+  },
+  {
+    "id": "Q66526749",
+    "label": "fourth lumbrical of hand"
+  },
+  {
+    "id": "Q66526747",
+    "label": "second lumbrical of hand"
+  },
+  {
+    "id": "Q66526748",
+    "label": "third lumbrical of hand"
+  },
+  {
+    "id": "Q115088071",
+    "label": "abdominal part of pectoralis major muscle"
+  },
+  {
+    "id": "Q115088076",
+    "label": "sternocostal head of pectoralis major muscle"
+  },
+  {
+    "id": "Q122214191",
+    "label": "adductor part of adductor magnus"
+  },
+  {
+    "id": "Q122218995",
+    "label": "ischiocondylar part of adductor magnus"
+  },
+  {
+    "id": "Q640127",
+    "label": "dilator naris muscle"
+  },
+  {
+    "id": "Q637545",
+    "label": "gluteus maximus muscle"
+  },
+  {
+    "id": "Q638147",
+    "label": "iris dilator muscle"
+  },
+  {
+    "id": "Q643928",
+    "label": "medial pterygoid muscle"
+  },
+  {
+    "id": "Q302950",
+    "label": "Orbicularis oris muscle"
+  },
+  {
+    "id": "Q337824",
+    "label": "abductor pollicis brevis muscle"
+  },
+  {
+    "id": "Q339861",
+    "label": "occipitalis muscle"
+  },
+  {
+    "id": "Q371010",
+    "label": "multifidus muscle"
+  },
+  {
+    "id": "Q371122",
+    "label": "rectus capitis anterior muscle"
+  },
+  {
+    "id": "Q727342",
+    "label": "innermost intercostal muscle"
+  },
+  {
+    "id": "Q725408",
+    "label": "masseter muscle"
+  },
+  {
+    "id": "Q729294",
+    "label": "Intertransversarii muscle"
+  },
+  {
+    "id": "Q730359",
+    "label": "coracobrachialis muscle"
+  },
+  {
+    "id": "Q1330812",
+    "label": "extensor hallucis brevis muscle"
+  },
+  {
+    "id": "Q1334595",
+    "label": "abdominal internal oblique muscle"
+  },
+  {
+    "id": "Q1386945",
+    "label": "fibularis longus"
+  },
+  {
+    "id": "Q1417662",
+    "label": "musculus uvulae"
+  },
+  {
+    "id": "Q1426052",
+    "label": "quadratus lumborum muscle"
+  },
+  {
+    "id": "Q1427665",
+    "label": "transversus abdominis muscle"
+  },
+  {
+    "id": "Q1428231",
+    "label": "adductor longus muscle"
+  },
+  {
+    "id": "Q1428240",
+    "label": "quadratus femoris muscle"
+  },
+  {
+    "id": "Q1075747",
+    "label": "salpingopharyngeus muscle"
+  },
+  {
+    "id": "Q1076423",
+    "label": "splenius cervicis muscle"
+  },
+  {
+    "id": "Q1084757",
+    "label": "pubococcygeus muscle"
+  },
+  {
+    "id": "Q1085907",
+    "label": "longissimus"
+  },
+  {
+    "id": "Q730870",
+    "label": "lateral cricoarytenoid muscle"
+  },
+  {
+    "id": "Q740337",
+    "label": "sartorius muscle"
+  },
+  {
+    "id": "Q743294",
+    "label": "serratus anterior muscle"
+  },
+  {
+    "id": "Q1428669",
+    "label": "gracilis muscle"
+  },
+  {
+    "id": "Q1429453",
+    "label": "tensor fasciae latae muscle"
+  },
+  {
+    "id": "Q1446138",
+    "label": "extensor hallucis longus muscle"
+  },
+  {
+    "id": "Q1475923",
+    "label": "abductor hallucis muscle"
+  },
+  {
+    "id": "Q12046616",
+    "label": "musculus gluteus superficialis"
+  },
+  {
+    "id": "Q17149143",
+    "label": "levator claviculae muscle"
+  },
+  {
+    "id": "Q3867495",
+    "label": "oblique arytenoid muscle"
+  },
+  {
+    "id": "Q4672544",
+    "label": "accessory soleus muscle"
+  },
+  {
+    "id": "Q4681420",
+    "label": "adductor minimus muscle"
+  },
+  {
+    "id": "Q5173044",
+    "label": "corrugator cutis ani"
+  },
+  {
+    "id": "Q21031536",
+    "label": "rectococcygeal muscle"
+  },
+  {
+    "id": "Q21044216",
+    "label": "epitrochleoanconeus muscle"
+  },
+  {
+    "id": "Q6036341",
+    "label": "amygdaloglossus muscle"
+  },
+  {
+    "id": "Q6592857",
+    "label": "orbitalis muscle"
+  },
+  {
+    "id": "Q25349120",
+    "label": "tensor vastus intermedius muscle"
+  },
+  {
+    "id": "Q26972977",
+    "label": "radial half of flexor digitorum profundus"
+  },
+  {
+    "id": "Q1091321",
+    "label": "levator veli palatini"
+  },
+  {
+    "id": "Q1126170",
+    "label": "gluteus medius muscle"
+  },
+  {
+    "id": "Q1144893",
+    "label": "piriformis muscle"
+  },
+  {
+    "id": "Q932621",
+    "label": "styloglossus"
+  },
+  {
+    "id": "Q932908",
+    "label": "levator palpebrae superioris muscle"
+  },
+  {
+    "id": "Q936699",
+    "label": "transversus thoracis muscle"
+  },
+  {
+    "id": "Q943203",
+    "label": "gastrocnemius muscle"
+  },
+  {
+    "id": "Q645694",
+    "label": "digastric muscle"
+  },
+  {
+    "id": "Q646925",
+    "label": "iliocostalis"
+  },
+  {
+    "id": "Q659744",
+    "label": "abductor digiti minimi muscle of hand"
+  },
+  {
+    "id": "Q663261",
+    "label": "depressor labii inferioris muscle"
+  },
+  {
+    "id": "Q746123",
+    "label": "abdominal external oblique muscle"
+  },
+  {
+    "id": "Q748180",
+    "label": "palatoglossus muscle"
+  },
+  {
+    "id": "Q752441",
+    "label": "brachialis muscle"
+  },
+  {
+    "id": "Q755141",
+    "label": "levator scapulae muscle"
+  },
+  {
+    "id": "Q1085940",
+    "label": "serratus posterior superior muscle"
+  },
+  {
+    "id": "Q1088104",
+    "label": "spinalis muscles"
+  },
+  {
+    "id": "Q1088115",
+    "label": "scalenus medius"
+  },
+  {
+    "id": "Q1088126",
+    "label": "splenius capitis muscle"
+  },
+  {
+    "id": "Q379007",
+    "label": "posterior cricoarytenoid muscle"
+  },
+  {
+    "id": "Q383359",
+    "label": "iliococcygeus muscle"
+  },
+  {
+    "id": "Q385089",
+    "label": "aryepiglottic part of oblique arytenoid muscle"
+  },
+  {
+    "id": "Q385484",
+    "label": "brachioradialis"
+  },
+  {
+    "id": "Q476952",
+    "label": "flexor digiti minimi brevis muscle of foot"
+  },
+  {
+    "id": "Q478040",
+    "label": "adductor magnus muscle"
+  },
+  {
+    "id": "Q1163035",
+    "label": "semitendinosus muscle"
+  },
+  {
+    "id": "Q1179995",
+    "label": "antitragicus muscle"
+  },
+  {
+    "id": "Q1179996",
+    "label": "articularis cubiti muscle"
+  },
+  {
+    "id": "Q1180005",
+    "label": "chondroglossus"
+  },
+  {
+    "id": "Q1180011",
+    "label": "dilator naris muscle"
+  },
+  {
+    "id": "Q1180012",
+    "label": "helicis major"
+  },
+  {
+    "id": "Q1180013",
+    "label": "helicis minor"
+  },
+  {
+    "id": "Q1180020",
+    "label": "iliocostalis lumborum muscle"
+  },
+  {
+    "id": "Q1180038",
+    "label": "musculus longissimus capitis"
+  },
+  {
+    "id": "Q1180039",
+    "label": "musculus longissimus cervicis"
+  },
+  {
+    "id": "Q1180045",
+    "label": "Oblique muscle of auricle"
+  },
+  {
+    "id": "Q665030",
+    "label": "anterior auricular muscle"
+  },
+  {
+    "id": "Q671943",
+    "label": "superior tarsal muscle"
+  },
+  {
+    "id": "Q672854",
+    "label": "palmaris longus muscle"
+  },
+  {
+    "id": "Q682551",
+    "label": "musculus iliocostalis cervicis"
+  },
+  {
+    "id": "Q717887",
+    "label": "transverse arytenoid muscle"
+  },
+  {
+    "id": "Q718062",
+    "label": "levator muscle of thyroid gland"
+  },
+  {
+    "id": "Q757083",
+    "label": "pectoralis minor muscle"
+  },
+  {
+    "id": "Q762258",
+    "label": "rectus capitis posterior major muscle"
+  },
+  {
+    "id": "Q764361",
+    "label": "rectus capitis posterior minor muscle"
+  },
+  {
+    "id": "Q774933",
+    "label": "erector spinae muscles"
+  },
+  {
+    "id": "Q828232",
+    "label": "pronator teres muscle"
+  },
+  {
+    "id": "Q834781",
+    "label": "external intercostal muscles"
+  },
+  {
+    "id": "Q838638",
+    "label": "rotatores muscles"
+  },
+  {
+    "id": "Q840572",
+    "label": "pronator quadratus muscle"
+  },
+  {
+    "id": "Q1180066",
+    "label": "tragicus muscle"
+  },
+  {
+    "id": "Q1180072",
+    "label": "transverse muscle of tongue"
+  },
+  {
+    "id": "Q1180067",
+    "label": "vocal muscle"
+  },
+  {
+    "id": "Q1270633",
+    "label": "semimembranosus muscle"
+  },
+  {
+    "id": "Q1308051",
+    "label": "popliteus muscle"
+  },
+  {
+    "id": "Q1328793",
+    "label": "flexor digitorum brevis muscle"
+  },
+  {
+    "id": "Q842547",
+    "label": "pubo-analis muscle"
+  }
+]

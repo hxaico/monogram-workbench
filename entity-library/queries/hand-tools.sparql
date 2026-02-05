@@ -1,0 +1,13 @@
+# Hand tools - tool types
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  {
+    ?item wdt:P31 wd:Q123588392 .  # instance of "type of tool"
+    ?item wdt:P279* wd:Q2578402 .  # that is a subclass of hand tool
+  } UNION {
+    ?item wdt:P279+ wd:Q2578402 .  # or direct subclass of hand tool
+  }
+  ?item rdfs:label ?itemLabel .
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
+}
+LIMIT 500

@@ -1,8 +1,8 @@
-# Food ingredients - types only (not specific products)
+# Power tools - saw types (the well-populated category)
 SELECT DISTINCT ?item ?itemLabel WHERE {
-  ?item wdt:P279+ wd:Q25403900 .  # subclass of food ingredient (not instances)
+  ?item wdt:P31 wd:Q128602091 .  # instance of "saw type"
   ?item rdfs:label ?itemLabel .
   FILTER(LANG(?itemLabel) = "en")
   FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
 }
-LIMIT 1000
+LIMIT 300

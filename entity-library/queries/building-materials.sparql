@@ -1,8 +1,8 @@
-# Food ingredients - types only (not specific products)
+# Building materials - types only  
 SELECT DISTINCT ?item ?itemLabel WHERE {
-  ?item wdt:P279+ wd:Q25403900 .  # subclass of food ingredient (not instances)
+  ?item wdt:P279+ wd:Q206615 .  # subclass of building material
   ?item rdfs:label ?itemLabel .
   FILTER(LANG(?itemLabel) = "en")
   FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
 }
-LIMIT 1000
+LIMIT 500

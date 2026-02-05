@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "Q542",
+    "label": "athletics"
+  },
+  {
+    "id": "Q201965",
+    "label": "Nordic combined"
+  },
+  {
+    "id": "Q201252",
+    "label": "pankration"
+  },
+  {
+    "id": "Q842284",
+    "label": "skateboarding"
+  },
+  {
+    "id": "Q812847",
+    "label": "beachminton"
+  },
+  {
+    "id": "Q812848",
+    "label": "beach basketball"
+  },
+  {
+    "id": "Q838089",
+    "label": "amateur wrestling"
+  },
+  {
+    "id": "Q2440459",
+    "label": "wheelchair fencing"
+  },
+  {
+    "id": "Q2447366",
+    "label": "Gaelic games"
+  },
+  {
+    "id": "Q2456077",
+    "label": "Truck trial"
+  },
+  {
+    "id": "Q2497700",
+    "label": "aizkolaritza"
+  },
+  {
+    "id": "Q2506562",
+    "label": "para canoe"
+  },
+  {
+    "id": "Q2529836",
+    "label": "barrel racing"
+  },
+  {
+    "id": "Q1469740",
+    "label": "Schleuderballwurf"
+  },
+  {
+    "id": "Q1477039",
+    "label": "space diving"
+  },
+  {
+    "id": "Q1484713",
+    "label": "Tricking"
+  },
+  {
+    "id": "Q1497658",
+    "label": "memory sport"
+  },
+  {
+    "id": "Q1501600",
+    "label": "skijoring"
+  },
+  {
+    "id": "Q1505715",
+    "label": "Moraingy"
+  },
+  {
+    "id": "Q718",
+    "label": "chess"
+  },
+  {
+    "id": "Q1547240",
+    "label": "aquathlon"
+  },
+  {
+    "id": "Q1549761",
+    "label": "Prellball"
+  },
+  {
+    "id": "Q1582389",
+    "label": "padel"
+  },
+  {
+    "id": "Q1618467",
+    "label": "beach tennis"
+  },
+  {
+    "id": "Q866224",
+    "label": "pickleball"
+  },
+  {
+    "id": "Q876737",
+    "label": "disc golf"
+  },
+  {
+    "id": "Q868873",
+    "label": "Mok Gar"
+  },
+  {
+    "id": "Q869009",
+    "label": "Choy gar"
+  },
+  {
+    "id": "Q207703",
+    "label": "rodeo"
+  },
+  {
+    "id": "Q212845",
+    "label": "Basque pelota"
+  },
+  {
+    "id": "Q2755547",
+    "label": "individual sport"
+  },
+  {
+    "id": "Q2701632",
+    "label": "quadball"
+  },
+  {
+    "id": "Q2704480",
+    "label": "Kissaki-kai"
+  },
+  {
+    "id": "Q2735901",
+    "label": "shooting para sport"
+  },
+  {
+    "id": "Q2739351",
+    "label": "Yoseikan Budo"
+  },
+  {
+    "id": "Q2740684",
+    "label": "cammag"
+  },
+  {
+    "id": "Q217108",
+    "label": "airsoft"
+  },
+  {
+    "id": "Q206091",
+    "label": "canyoning"
+  },
+  {
+    "id": "Q206763",
+    "label": "floorball"
+  },
+  {
+    "id": "Q204985",
+    "label": "horseball"
+  },
+  {
+    "id": "Q213711",
+    "label": "hurling"
+  },
+  {
+    "id": "Q213796",
+    "label": "powerlifting"
+  },
+  {
+    "id": "Q1622659",
+    "label": "hockey"
+  },
+  {
+    "id": "Q852989",
+    "label": "bouldering"
+  },
+  {
+    "id": "Q844443",
+    "label": "wheelchair rugby"
+  },
+  {
+    "id": "Q877517",
+    "label": "ball game"
+  },
+  {
+    "id": "Q1040498",
+    "label": "Chinese yo-yo"
+  },
+  {
+    "id": "Q1050588",
+    "label": "fistball"
+  },
+  {
+    "id": "Q1002529",
+    "label": "Kite buggy"
+  },
+  {
+    "id": "Q1007807",
+    "label": "canter and gallop"
+  },
+  {
+    "id": "Q1017290",
+    "label": "Buschball"
+  },
+  {
+    "id": "Q1050041",
+    "label": "cat agility"
+  },
+  {
+    "id": "Q986233",
+    "label": "Chow Gar"
+  },
+  {
+    "id": "Q989473",
+    "label": "International draughts"
+  },
+  {
+    "id": "Q3177899",
+    "label": "bowling"
+  },
+  {
+    "id": "Q3076708",
+    "label": "Swedish football"
+  },
+  {
+    "id": "Q3085248",
+    "label": "para table tennis"
+  },
+  {
+    "id": "Q3111240",
+    "label": "woodchopping"
+  },
+  {
+    "id": "Q3111702",
+    "label": "Donut hockey"
+  },
+  {
+    "id": "Q3126275",
+    "label": "para powerlifting"
+  },
+  {
+    "id": "Q3135514",
+    "label": "Hikuta"
+  },
+  {
+    "id": "Q895471",
+    "label": "bowls"
+  },
+  {
+    "id": "Q895060",
+    "label": "bocce"
+  },
+  {
+    "id": "Q884250",
+    "label": "para association football"
+  },
+  {
+    "id": "Q4543",
+    "label": "beach volleyball"
+  },
+  {
+    "id": "Q1777054",
+    "label": "touch"
+  },
+  {
+    "id": "Q1759504",
+    "label": "alpine climbing"
+  },
+  {
+    "id": "Q1763915",
+    "label": "mountain bike trials"
+  },
+  {
+    "id": "Q1890908",
+    "label": "team chess"
+  },
+  {
+    "id": "Q1895773",
+    "label": "Nanbudō"
+  },
+  {
+    "id": "Q206989",
+    "label": "shooting sports"
+  },
+  {
+    "id": "Q977003",
+    "label": "land sailing"
+  },
+  {
+    "id": "Q948043",
+    "label": "truck racing"
+  },
+  {
+    "id": "Q963312",
+    "label": "para ice hockey"
+  },
+  {
+    "id": "Q974015",
+    "label": "indoor hockey"
+  },
+  {
+    "id": "Q215862",
+    "label": "motocross"
+  },
+  {
+    "id": "Q213934",
+    "label": "canoeing and kayaking"
+  },
+  {
+    "id": "Q265863",
+    "label": "Frontenis"
+  },
+  {
+    "id": "Q271277",
+    "label": "savate"
+  },
+  {
+    "id": "Q273125",
+    "label": "kyūdō"
+  },
+  {
+    "id": "Q1957787",
+    "label": "radiosport"
+  },
+  {
+    "id": "Q1968664",
+    "label": "sled dog racing"
+  },
+  {
+    "id": "Q1970378",
+    "label": "aid climbing"
+  },
+  {
+    "id": "Q1972786",
+    "label": "ringette"
+  },
+  {
+    "id": "Q1952113",
+    "label": "calcio storico fiorentino"
+  },
+  {
+    "id": "Q1545308",
+    "label": "powerboating"
+  },
+  {
+    "id": "Q1541373",
+    "label": "sport climbing"
+  },
+  {
+    "id": "Q1515947",
+    "label": "soft tennis"
+  },
+  {
+    "id": "Q1529228",
+    "label": "trail orienteering"
+  },
+  {
+    "id": "Q1530638",
+    "label": "Paragliding aerobatics"
+  },
+  {
+    "id": "Q231200",
+    "label": "netball"
+  },
+  {
+    "id": "Q219554",
+    "label": "kite surfing"
+  },
+  {
+    "id": "Q2801174",
+    "label": "summer biathlon"
+  },
+  {
+    "id": "Q2840660",
+    "label": "alindesis"
+  },
+  {
+    "id": "Q2871835",
+    "label": "Crosskart"
+  },
+  {
+    "id": "Q2881330",
+    "label": "Ballon au poing"
+  },
+  {
+    "id": "Q2891117",
+    "label": "dragon boat sport"
+  },
+  {
+    "id": "Q2923908",
+    "label": "iron arm"
+  },
+  {
+    "id": "Q3026777",
+    "label": "idi probak"
+  },
+  {
+    "id": "Q3405083",
+    "label": "British baseball"
+  },
+  {
+    "id": "Q3434711",
+    "label": "longboarding"
+  },
+  {
+    "id": "Q3358174",
+    "label": "ulak"
+  },
+  {
+    "id": "Q3363711",
+    "label": "para triathlon"
+  },
+  {
+    "id": "Q3374913",
+    "label": "winter pentathlon"
+  },
+  {
+    "id": "Q3434494",
+    "label": "Czech handball"
+  },
+  {
+    "id": "Q3452808",
+    "label": "Rugball"
+  },
+  {
+    "id": "Q3452885",
+    "label": "wheelchair rugby league"
+  },
+  {
+    "id": "Q3570131",
+    "label": "Wu Dao"
+  },
+  {
+    "id": "Q3630460",
+    "label": "Autoball"
+  },
+  {
+    "id": "Q3535960",
+    "label": "Town ball"
+  },
+  {
+    "id": "Q3540813",
+    "label": "freestyle scootering"
+  },
+  {
+    "id": "Q3562205",
+    "label": "multi-pitch climbing"
+  },
+  {
+    "id": "Q3577413",
+    "label": "Namur stilt jousting"
+  },
+  {
+    "id": "Q3655245",
+    "label": "Irish road bowling"
+  },
+  {
+    "id": "Q3754231",
+    "label": "full contact karate"
+  },
+  {
+    "id": "Q1734",
+    "label": "volleyball"
+  },
+  {
+    "id": "Q1455",
+    "label": "field hockey"
+  },
+  {
+    "id": "Q2583651",
+    "label": "Chuiwan"
+  },
+  {
+    "id": "Q2532527",
+    "label": "Volleyclub"
+  },
+  {
+    "id": "Q2533407",
+    "label": "life saving as a sport"
+  },
+  {
+    "id": "Q2533793",
+    "label": "Partie Bonnard"
+  },
+  {
+    "id": "Q2536663",
+    "label": "Piguaquan"
+  },
+  {
+    "id": "Q2538895",
+    "label": "Waffenlauf"
+  },
+  {
+    "id": "Q2617509",
+    "label": "Chuck Norris System"
+  },
+  {
+    "id": "Q2655857",
+    "label": "IJscolf"
+  },
+  {
+    "id": "Q2667601",
+    "label": "off-road triathlon"
+  },
+  {
+    "id": "Q2671658",
+    "label": "para biathlon"
+  },
+  {
+    "id": "Q1741178",
+    "label": "Kiiking"
+  },
+  {
+    "id": "Q1741679",
+    "label": "Kin-Ball"
+  },
+  {
+    "id": "Q1748406",
+    "label": "roller hockey (quad)"
+  },
+  {
+    "id": "Q1757181",
+    "label": "para athletics"
+  },
+  {
+    "id": "Q1678863",
+    "label": "table shuffleboard"
+  },
+  {
+    "id": "Q1640371",
+    "label": "Riverboarding"
+  },
+  {
+    "id": "Q1663797",
+    "label": "Inline-Downhill"
+  },
+  {
+    "id": "Q1672856",
+    "label": "Gaelic handball"
+  },
+  {
+    "id": "Q1684507",
+    "label": "modern jazz dance"
+  },
+  {
+    "id": "Q1701092",
+    "label": "biribol"
+  },
+  {
+    "id": "Q1717983",
+    "label": "Jūkendō"
+  },
+  {
+    "id": "Q1719546",
+    "label": "recreational diving"
+  },
+  {
+    "id": "Q2736",
+    "label": "association football"
+  },
+  {
+    "id": "Q853890",
+    "label": "Enduro"
+  },
+  {
+    "id": "Q855880",
+    "label": "football tennis"
+  },
+  {
+    "id": "Q857999",
+    "label": "canne de combat"
+  },
+  {
+    "id": "Q859999",
+    "label": "cycling biatholon"
+  },
+  {
+    "id": "Q863141",
+    "label": "Hung Gar"
+  },
+  {
+    "id": "Q300920",
+    "label": "esports"
+  },
+  {
+    "id": "Q296721",
+    "label": "oil wrestling"
+  },
+  {
+    "id": "Q1052229",
+    "label": "robot combat"
+  },
+  {
+    "id": "Q1055193",
+    "label": "pallone"
+  },
+  {
+    "id": "Q1060018",
+    "label": "animal sports"
+  },
+  {
+    "id": "Q1063445",
+    "label": "nine-ball"
+  },
+  {
+    "id": "Q1070325",
+    "label": "icestock sport"
+  },
+  {
+    "id": "Q847",
+    "label": "tennis"
+  },
+  {
+    "id": "Q933235",
+    "label": "casting"
+  },
+  {
+    "id": "Q902378",
+    "label": "equestrian sport"
+  },
+  {
+    "id": "Q896777",
+    "label": "water jousting"
+  },
+  {
+    "id": "Q904094",
+    "label": "field target"
+  },
+  {
+    "id": "Q3285658",
+    "label": "boccia"
+  },
+  {
+    "id": "Q3187136",
+    "label": "Joutes languedociennes"
+  },
+  {
+    "id": "Q3198098",
+    "label": "KoKowa"
+  },
+  {
+    "id": "Q3288576",
+    "label": "Jow-Ga Kung Fu"
+  },
+  {
+    "id": "Q3298491",
+    "label": "metallic silhouette shooting"
+  },
+  {
+    "id": "Q3479346",
+    "label": "wushu"
+  },
+  {
+    "id": "Q3487326",
+    "label": "tour skating"
+  },
+  {
+    "id": "Q3493900",
+    "label": "outdoor sports"
+  },
+  {
+    "id": "Q3493888",
+    "label": "Sport Chanbara"
+  },
+  {
+    "id": "Q3493962",
+    "label": "Street sports"
+  },
+  {
+    "id": "Q207238",
+    "label": "rafting"
+  },
+  {
+    "id": "Q1092816",
+    "label": "street football"
+  },
+  {
+    "id": "Q1117866",
+    "label": "speed-ball"
+  },
+  {
+    "id": "Q1128216",
+    "label": "wheelchair basketball"
+  },
+  {
+    "id": "Q5367",
+    "label": "motorsport"
+  },
+  {
+    "id": "Q244700",
+    "label": "ultimate"
+  },
+  {
+    "id": "Q242791",
+    "label": "Kyokushin kaikan"
+  },
+  {
+    "id": "Q1940865",
+    "label": "mixed climbing"
+  },
+  {
+    "id": "Q1897833",
+    "label": "wildwater canoeing"
+  },
+  {
+    "id": "Q1899731",
+    "label": "Frisian handball"
+  },
+  {
+    "id": "Q1923466",
+    "label": "bossaball"
+  },
+  {
+    "id": "Q1943396",
+    "label": "Isshin-ryū"
+  },
+  {
+    "id": "Q1163125",
+    "label": "pentathlon"
+  },
+  {
+    "id": "Q1154336",
+    "label": "rock climbing"
+  },
+  {
+    "id": "Q376040",
+    "label": "wakeboarding"
+  },
+  {
+    "id": "Q362605",
+    "label": "jereed"
+  },
+  {
+    "id": "Q381621",
+    "label": "winter triathlon"
+  },
+  {
+    "id": "Q383478",
+    "label": "underwater rugby"
+  },
+  {
+    "id": "Q327742",
+    "label": "relay race"
+  },
+  {
+    "id": "Q309162",
+    "label": "extreme sport"
+  },
+  {
+    "id": "Q3930",
+    "label": "table tennis"
+  },
+  {
+    "id": "Q473719",
+    "label": "dodgeball"
+  },
+  {
+    "id": "Q478897",
+    "label": "palla"
+  },
+  {
+    "id": "Q478584",
+    "label": "CP football"
+  },
+  {
+    "id": "Q339165",
+    "label": "K-1"
+  },
+  {
+    "id": "Q2418434",
+    "label": "military patrol"
+  },
+  {
+    "id": "Q2368461",
+    "label": "surf ski"
+  },
+  {
+    "id": "Q2368645",
+    "label": "What? Where? When?"
+  },
+  {
+    "id": "Q2388557",
+    "label": "Roliball"
+  },
+  {
+    "id": "Q2392842",
+    "label": "Tankendō"
+  },
+  {
+    "id": "Q2407714",
+    "label": "paddle ball"
+  },
+  {
+    "id": "Q2413978",
+    "label": "para swimming"
+  },
+  {
+    "id": "Q1139974",
+    "label": "Cricko"
+  },
+  {
+    "id": "Q1140504",
+    "label": "Wadō-ryū"
+  },
+  {
+    "id": "Q1142365",
+    "label": "sack race"
+  },
+  {
+    "id": "Q1143202",
+    "label": "roque"
+  },
+  {
+    "id": "Q1081491",
+    "label": "football"
+  },
+  {
+    "id": "Q1075286",
+    "label": "rounders"
+  },
+  {
+    "id": "Q1074830",
+    "label": "Speed badminton"
+  },
+  {
+    "id": "Q1194872",
+    "label": "parasailing"
+  },
+  {
+    "id": "Q1182429",
+    "label": "deep-water soloing"
+  },
+  {
+    "id": "Q1186732",
+    "label": "racketlon"
+  },
+  {
+    "id": "Q1190613",
+    "label": "Power Snooker"
+  },
+  {
+    "id": "Q1200525",
+    "label": "classical dressage"
+  },
+  {
+    "id": "Q1975513",
+    "label": "shuffleboard"
+  },
+  {
+    "id": "Q1977220",
+    "label": "off-roading"
+  },
+  {
+    "id": "Q1998122",
+    "label": "Nordic Blading"
+  },
+  {
+    "id": "Q2040849",
+    "label": "pencak silat"
+  },
+  {
+    "id": "Q1995117",
+    "label": "farmers golf"
+  },
+  {
+    "id": "Q4386259",
+    "label": "freestyle"
+  },
+  {
+    "id": "Q4398739",
+    "label": "Rope jumping"
+  },
+  {
+    "id": "Q4208733",
+    "label": "kaisa"
+  },
+  {
+    "id": "Q4223081",
+    "label": "Accuracy landing"
+  },
+  {
+    "id": "Q4227237",
+    "label": "Kok-borou"
+  },
+  {
+    "id": "Q4345014",
+    "label": "para taekwondo"
+  },
+  {
+    "id": "Q4387242",
+    "label": "deaf basketball"
+  },
+  {
+    "id": "Q273285",
+    "label": "luge"
+  },
+  {
+    "id": "Q483693",
+    "label": "parkour"
+  },
+  {
+    "id": "Q493742",
+    "label": "Wheelchair dancesport"
+  },
+  {
+    "id": "Q494336",
+    "label": "Klootschieten"
+  },
+  {
+    "id": "Q7291",
+    "label": "badminton"
+  },
+  {
+    "id": "Q5369",
+    "label": "baseball"
+  },
+  {
+    "id": "Q5375",
+    "label": "cricket"
+  },
+  {
+    "id": "Q2426135",
+    "label": "racket sport"
+  },
+  {
+    "id": "Q7707",
+    "label": "water polo"
+  },
+  {
+    "id": "Q1324916",
+    "label": "English billiards"
+  },
+  {
+    "id": "Q1345388",
+    "label": "greyhound racing"
+  },
+  {
+    "id": "Q1352571",
+    "label": "Haidong Gumdo"
+  },
+  {
+    "id": "Q1358545",
+    "label": "arena football"
+  },
+  {
+    "id": "Q1358925",
+    "label": "speed skiing"
+  },
+  {
+    "id": "Q2310318",
+    "label": "Njinga"
+  },
+  {
+    "id": "Q2250158",
+    "label": "five-a-side football"
+  },
+  {
+    "id": "Q2258819",
+    "label": "Finch sport in Flanders"
+  },
+  {
+    "id": "Q2261949",
+    "label": "para cycling"
+  },
+  {
+    "id": "Q2292900",
+    "label": "Tescao"
+  },
+  {
+    "id": "Q2308265",
+    "label": "Speckbrett"
+  },
+  {
+    "id": "Q2355207",
+    "label": "Cross-country flying"
+  },
+  {
+    "id": "Q2360406",
+    "label": "real tennis"
+  },
+  {
+    "id": "Q3978044",
+    "label": "Superstock"
+  },
+  {
+    "id": "Q4207613",
+    "label": "Kazakh wrestling"
+  },
+  {
+    "id": "Q3835103",
+    "label": "Lau Gar"
+  },
+  {
+    "id": "Q3891759",
+    "label": "paletta"
+  },
+  {
+    "id": "Q3891893",
+    "label": "palla elastica"
+  },
+  {
+    "id": "Q3892634",
+    "label": "pallina"
+  },
+  {
+    "id": "Q3892652",
+    "label": "pallone col bracciale"
+  },
+  {
+    "id": "Q3897927",
+    "label": "artistic skating"
+  },
+  {
+    "id": "Q3899243",
+    "label": "aeronautical pentathlon"
+  },
+  {
+    "id": "Q3899259",
+    "label": "naval pentathlon"
+  },
+  {
+    "id": "Q3915070",
+    "label": "pallapugno"
+  },
+  {
+    "id": "Q3952256",
+    "label": "para Nordic skiing"
+  },
+  {
+    "id": "Q3962667",
+    "label": "skyrunning"
+  },
+  {
+    "id": "Q3965939",
+    "label": "spaola"
+  },
+  {
+    "id": "Q3967457",
+    "label": "Squash tennis"
+  },
+  {
+    "id": "Q420516",
+    "label": "Akontion"
+  },
+  {
+    "id": "Q392633",
+    "label": "Slamball"
+  },
+  {
+    "id": "Q428242",
+    "label": "ski orienteering"
+  },
+  {
+    "id": "Q429006",
+    "label": "duathlon"
+  },
+  {
+    "id": "Q429885",
+    "label": "cycle polo"
+  },
+  {
+    "id": "Q430674",
+    "label": "AcroCap"
+  },
+  {
+    "id": "Q5377",
+    "label": "golf"
+  },
+  {
+    "id": "Q1364728",
+    "label": "Jugger"
+  },
+  {
+    "id": "Q1367802",
+    "label": "jeu provençal"
+  },
+  {
+    "id": "Q1380338",
+    "label": "mallakhamb"
+  },
+  {
+    "id": "Q1388349",
+    "label": "boule lyonnaise"
+  },
+  {
+    "id": "Q1410068",
+    "label": "fire-fighting sport"
+  },
+  {
+    "id": "Q1415387",
+    "label": "competitive dance"
+  },
+  {
+    "id": "Q1153025",
+    "label": "wheelchair tennis"
+  },
+  {
+    "id": "Q1148495",
+    "label": "ice climbing"
+  },
+  {
+    "id": "Q1148550",
+    "label": "sandskiing"
+  },
+  {
+    "id": "Q1148950",
+    "label": "gateball"
+  },
+  {
+    "id": "Q1150656",
+    "label": "wheelchair curling"
+  },
+  {
+    "id": "Q2155787",
+    "label": "footgolf"
+  },
+  {
+    "id": "Q2141352",
+    "label": "dirt track racing"
+  },
+  {
+    "id": "Q2154060",
+    "label": "Tennikoit"
+  },
+  {
+    "id": "Q2165726",
+    "label": "Tae Bo"
+  },
+  {
+    "id": "Q2167372",
+    "label": "mountain running"
+  },
+  {
+    "id": "Q2214812",
+    "label": "traditional climbing"
+  },
+  {
+    "id": "Q1421910",
+    "label": "fives"
+  },
+  {
+    "id": "Q1417032",
+    "label": "sim racing"
+  },
+  {
+    "id": "Q1421697",
+    "label": "Chilean rodeo"
+  },
+  {
+    "id": "Q1424010",
+    "label": "indoor cycling"
+  },
+  {
+    "id": "Q1424950",
+    "label": "bare-knuckle boxing"
+  },
+  {
+    "id": "Q535813",
+    "label": "sidestroke"
+  },
+  {
+    "id": "Q569205",
+    "label": "rally raid"
+  },
+  {
+    "id": "Q507033",
+    "label": "Aerial dance"
+  },
+  {
+    "id": "Q512203",
+    "label": "underwater hockey"
+  },
+  {
+    "id": "Q519303",
+    "label": "Team roping"
+  },
+  {
+    "id": "Q556496",
+    "label": "acrobatic rock'n'roll"
+  },
+  {
+    "id": "Q5386",
+    "label": "auto racing"
+  },
+  {
+    "id": "Q337210",
+    "label": "whitewater kayaking"
+  },
+  {
+    "id": "Q328716",
+    "label": "motorcycle sport"
+  },
+  {
+    "id": "Q1434370",
+    "label": "river surfing"
+  },
+  {
+    "id": "Q1443621",
+    "label": "artistic roller skating"
+  },
+  {
+    "id": "Q1449808",
+    "label": "Fut Gar"
+  },
+  {
+    "id": "Q1453425",
+    "label": "free solo climbing"
+  },
+  {
+    "id": "Q1462938",
+    "label": "water basketball"
+  },
+  {
+    "id": "Q569801",
+    "label": "silat"
+  },
+  {
+    "id": "Q589184",
+    "label": "Paralympic sport"
+  },
+  {
+    "id": "Q597628",
+    "label": "sitting volleyball"
+  },
+  {
+    "id": "Q6034982",
+    "label": "inline skating"
+  },
+  {
+    "id": "Q6059325",
+    "label": "Inuoumono"
+  },
+  {
+    "id": "Q6071065",
+    "label": "hand-pelota"
+  },
+  {
+    "id": "Q6140386",
+    "label": "Kitō-ryū"
+  },
+  {
+    "id": "Q6164072",
+    "label": "vitilla"
+  },
+  {
+    "id": "Q6071067",
+    "label": "pelota paleta"
+  },
+  {
+    "id": "Q5384640",
+    "label": "equitation"
+  },
+  {
+    "id": "Q5959425",
+    "label": "Kholi"
+  },
+  {
+    "id": "Q6026443",
+    "label": "indoor sport"
+  },
+  {
+    "id": "Q5976629",
+    "label": "Linao"
+  },
+  {
+    "id": "Q5146604",
+    "label": "college lacrosse"
+  },
+  {
+    "id": "Q5153755",
+    "label": "Commonwealth Games sports"
+  },
+  {
+    "id": "Q5156357",
+    "label": "competitive karuta"
+  },
+  {
+    "id": "Q5156775",
+    "label": "composite rules shinty–hurling"
+  },
+  {
+    "id": "Q5245791",
+    "label": "Deaf climbers"
+  },
+  {
+    "id": "Q5392852",
+    "label": "tub racing"
+  },
+  {
+    "id": "Q5422452",
+    "label": "Extreme sledding"
+  },
+  {
+    "id": "Q5477340",
+    "label": "Foxy boxing"
+  },
+  {
+    "id": "Q5999051",
+    "label": "illegal sport"
+  },
+  {
+    "id": "Q6022789",
+    "label": "Indian rodeo"
+  },
+  {
+    "id": "Q624161",
+    "label": "gliding"
+  },
+  {
+    "id": "Q613858",
+    "label": "international game"
+  },
+  {
+    "id": "Q610098",
+    "label": "Mesoamerican ballgame"
+  },
+  {
+    "id": "Q618786",
+    "label": "inline speed skating"
+  },
+  {
+    "id": "Q2094083",
+    "label": "kayaking"
+  },
+  {
+    "id": "Q2060479",
+    "label": "eight-ball"
+  },
+  {
+    "id": "Q2087929",
+    "label": "para judo"
+  },
+  {
+    "id": "Q2093039",
+    "label": "belt wrestling"
+  },
+  {
+    "id": "Q6176425",
+    "label": "jegichagi"
+  },
+  {
+    "id": "Q5372",
+    "label": "basketball"
+  },
+  {
+    "id": "Q8418",
+    "label": "handball"
+  },
+  {
+    "id": "Q7856",
+    "label": "rallying"
+  },
+  {
+    "id": "Q1302771",
+    "label": "egg-and-spoon race"
+  },
+  {
+    "id": "Q1307101",
+    "label": "Individual pursuit"
+  },
+  {
+    "id": "Q1307611",
+    "label": "single-handed sailing"
+  },
+  {
+    "id": "Q1320458",
+    "label": "ice sailing"
+  },
+  {
+    "id": "Q1323015",
+    "label": "Western riding"
+  },
+  {
+    "id": "Q7718",
+    "label": "ski jumping"
+  },
+  {
+    "id": "Q2215841",
+    "label": "cycle sport"
+  },
+  {
+    "id": "Q624780",
+    "label": "Gōjū-ryū"
+  },
+  {
+    "id": "Q627165",
+    "label": "harri-jasotze"
+  },
+  {
+    "id": "Q637186",
+    "label": "grass skiing"
+  },
+  {
+    "id": "Q638269",
+    "label": "synchronized diving"
+  },
+  {
+    "id": "Q640878",
+    "label": "swamp football"
+  },
+  {
+    "id": "Q644628",
+    "label": "air sports"
+  },
+  {
+    "id": "Q647714",
+    "label": "Cresta Run"
+  },
+  {
+    "id": "Q647559",
+    "label": "goalball"
+  },
+  {
+    "id": "Q4748078",
+    "label": "Ampe"
+  },
+  {
+    "id": "Q4406828",
+    "label": "airplane sport"
+  },
+  {
+    "id": "Q4443729",
+    "label": "sport crossbow shooting"
+  },
+  {
+    "id": "Q4493605",
+    "label": "blind soccer"
+  },
+  {
+    "id": "Q4806651",
+    "label": "Asian Games sports"
+  },
+  {
+    "id": "Q4826990",
+    "label": "autosolo"
+  },
+  {
+    "id": "Q4851143",
+    "label": "balkline and straight rail"
+  },
+  {
+    "id": "Q4855141",
+    "label": "Banger rally"
+  },
+  {
+    "id": "Q4857978",
+    "label": "Bar billiards"
+  },
+  {
+    "id": "Q4867859",
+    "label": "basque bowls"
+  },
+  {
+    "id": "Q5031973",
+    "label": "candlepin bowling"
+  },
+  {
+    "id": "Q5045772",
+    "label": "Carpet Bowls"
+  },
+  {
+    "id": "Q5100758",
+    "label": "Chinese eight-ball"
+  },
+  {
+    "id": "Q5132811",
+    "label": "cliff jumping"
+  },
+  {
+    "id": "Q11417",
+    "label": "martial art"
+  },
+  {
+    "id": "Q472827",
+    "label": "water skiing"
+  },
+  {
+    "id": "Q452172",
+    "label": "biathle"
+  },
+  {
+    "id": "Q471257",
+    "label": "history of chess"
+  },
+  {
+    "id": "Q738622",
+    "label": "dancesport"
+  },
+  {
+    "id": "Q732561",
+    "label": "Taidō"
+  },
+  {
+    "id": "Q718151",
+    "label": "camel racing"
+  },
+  {
+    "id": "Q7735",
+    "label": "diving"
+  },
+  {
+    "id": "Q32112",
+    "label": "boxing"
+  },
+  {
+    "id": "Q600017",
+    "label": "Six-red snooker"
+  },
+  {
+    "id": "Q601972",
+    "label": "camogie"
+  },
+  {
+    "id": "Q602507",
+    "label": "hand-to-hand combat"
+  },
+  {
+    "id": "Q31920",
+    "label": "competitive swimming"
+  },
+  {
+    "id": "Q12100",
+    "label": "fencing"
+  },
+  {
+    "id": "Q41103",
+    "label": "Shōtōkan-ryū"
+  },
+  {
+    "id": "Q1242708",
+    "label": "doubles"
+  },
+  {
+    "id": "Q1210038",
+    "label": "longue paume"
+  },
+  {
+    "id": "Q1266054",
+    "label": "skater hockey"
+  },
+  {
+    "id": "Q1279774",
+    "label": "Krolf"
+  },
+  {
+    "id": "Q1280410",
+    "label": "Japanese martial arts"
+  },
+  {
+    "id": "Q1295867",
+    "label": "pesäpallo"
+  },
+  {
+    "id": "Q29358",
+    "label": "orienteering"
+  },
+  {
+    "id": "Q28954",
+    "label": "indoor soccer"
+  },
+  {
+    "id": "Q28961",
+    "label": "footvolley"
+  },
+  {
+    "id": "Q752021",
+    "label": "budō"
+  },
+  {
+    "id": "Q754586",
+    "label": "racquetball"
+  },
+  {
+    "id": "Q739823",
+    "label": "big wall climbing"
+  },
+  {
+    "id": "Q20856109",
+    "label": "canoeing"
+  },
+  {
+    "id": "Q19372847",
+    "label": "Nordic rifle field shooting"
+  },
+  {
+    "id": "Q19578052",
+    "label": "teqball"
+  },
+  {
+    "id": "Q19705321",
+    "label": "fitness boxing"
+  },
+  {
+    "id": "Q20646010",
+    "label": "Er Enish"
+  },
+  {
+    "id": "Q20679712",
+    "label": "uphill time trial"
+  },
+  {
+    "id": "Q20750270",
+    "label": "hunting rifle shooting"
+  },
+  {
+    "id": "Q20755344",
+    "label": "Aki Kiti"
+  },
+  {
+    "id": "Q22857",
+    "label": "climbing"
+  },
+  {
+    "id": "Q805380",
+    "label": "ball throwing"
+  },
+  {
+    "id": "Q809831",
+    "label": "BASE jumping"
+  },
+  {
+    "id": "Q810704",
+    "label": "bataireacht"
+  },
+  {
+    "id": "Q7128792",
+    "label": "combat sport"
+  },
+  {
+    "id": "Q6970565",
+    "label": "Dodds"
+  },
+  {
+    "id": "Q6857865",
+    "label": "military sports"
+  },
+  {
+    "id": "Q6383440",
+    "label": "kegel"
+  },
+  {
+    "id": "Q6867823",
+    "label": "minkey"
+  },
+  {
+    "id": "Q6918339",
+    "label": "motorkhana"
+  },
+  {
+    "id": "Q6944114",
+    "label": "mutton busting"
+  },
+  {
+    "id": "Q6973454",
+    "label": "National Hunt racing"
+  },
+  {
+    "id": "Q6410186",
+    "label": "sayokan"
+  },
+  {
+    "id": "Q1464741",
+    "label": "Friesensport"
+  },
+  {
+    "id": "Q1466233",
+    "label": "military pentathlon"
+  },
+  {
+    "id": "Q1464719",
+    "label": "classic pentathlon"
+  },
+  {
+    "id": "Q10293684",
+    "label": "wheelchair handball"
+  },
+  {
+    "id": "Q10366239",
+    "label": "Rédeas"
+  },
+  {
+    "id": "Q10379715",
+    "label": "Gulesh"
+  },
+  {
+    "id": "Q10389571",
+    "label": "para sailing"
+  },
+  {
+    "id": "Q10431397",
+    "label": "salamapallo"
+  },
+  {
+    "id": "Q10494941",
+    "label": "Fiddy"
+  },
+  {
+    "id": "Q10498242",
+    "label": "Forza"
+  },
+  {
+    "id": "Q10526896",
+    "label": "Hugg"
+  },
+  {
+    "id": "Q10538022",
+    "label": "ice surfing"
+  },
+  {
+    "id": "Q10538096",
+    "label": "Istrav"
+  },
+  {
+    "id": "Q10544356",
+    "label": "Japanese-style baseball"
+  },
+  {
+    "id": "Q10589653",
+    "label": "motion gymnastics"
+  },
+  {
+    "id": "Q10665377",
+    "label": "Self Caught Flight"
+  },
+  {
+    "id": "Q10698569",
+    "label": "Tiohuggarrodd"
+  },
+  {
+    "id": "Q10709656",
+    "label": "Unicurl"
+  },
+  {
+    "id": "Q10719873",
+    "label": "whippet racing"
+  },
+  {
+    "id": "Q10720784",
+    "label": "X-kan"
+  },
+  {
+    "id": "Q11203550",
+    "label": "whitewater canoeing"
+  },
+  {
+    "id": "Q11300152",
+    "label": "ground golf"
+  },
+  {
+    "id": "Q10235779",
+    "label": "indoor athletics"
+  },
+  {
+    "id": "Q10259864",
+    "label": "para archery"
+  },
+  {
+    "id": "Q9208460",
+    "label": "Dodder"
+  },
+  {
+    "id": "Q7922740",
+    "label": "vert skateboarding"
+  },
+  {
+    "id": "Q8026376",
+    "label": "winter duathlon"
+  },
+  {
+    "id": "Q8034964",
+    "label": "working cow horse"
+  },
+  {
+    "id": "Q8035768",
+    "label": "World Games sports"
+  },
+  {
+    "id": "Q8046440",
+    "label": "yacht racing"
+  },
+  {
+    "id": "Q8192151",
+    "label": "sawanobori"
+  },
+  {
+    "id": "Q8242657",
+    "label": "Spanish bar launch"
+  },
+  {
+    "id": "Q9067968",
+    "label": "erremonte"
+  },
+  {
+    "id": "Q9254936",
+    "label": "Escrima"
+  },
+  {
+    "id": "Q9346614",
+    "label": "Street mtb"
+  },
+  {
+    "id": "Q36389",
+    "label": "taekwondo"
+  },
+  {
+    "id": "Q7199135",
+    "label": "Pitton"
+  },
+  {
+    "id": "Q7133630",
+    "label": "para equestrian sport"
+  },
+  {
+    "id": "Q7190944",
+    "label": "pickup truck racing"
+  },
+  {
+    "id": "Q7247819",
+    "label": "Production car racing"
+  },
+  {
+    "id": "Q7248070",
+    "label": "professional gridiron football"
+  },
+  {
+    "id": "Q7248073",
+    "label": "professional golf"
+  },
+  {
+    "id": "Q7290784",
+    "label": "Ranch sorting"
+  },
+  {
+    "id": "Q7294209",
+    "label": "Rapid ball"
+  },
+  {
+    "id": "Q7368906",
+    "label": "Han Moo Do"
+  },
+  {
+    "id": "Q7369742",
+    "label": "Rossall hockey"
+  },
+  {
+    "id": "Q7434721",
+    "label": "Sepak raga"
+  },
+  {
+    "id": "Q7548681",
+    "label": "snowmobile skipping"
+  },
+  {
+    "id": "Q7569301",
+    "label": "Southeast Asian Games sports"
+  },
+  {
+    "id": "Q7574584",
+    "label": "special hockey"
+  },
+  {
+    "id": "Q7575624",
+    "label": "speedcabling"
+  },
+  {
+    "id": "Q7853822",
+    "label": "Turbo Tennis"
+  },
+  {
+    "id": "Q7894227",
+    "label": "Universiade sports"
+  },
+  {
+    "id": "Q12258542",
+    "label": "Gizon proba"
+  },
+  {
+    "id": "Q12267267",
+    "label": "Sega-joko"
+  },
+  {
+    "id": "Q12321894",
+    "label": "kirib"
+  },
+  {
+    "id": "Q12331896",
+    "label": "Ping-pong"
+  },
+  {
+    "id": "Q12375167",
+    "label": "Snadi"
+  },
+  {
+    "id": "Q12473233",
+    "label": "Badmini"
+  },
+  {
+    "id": "Q12501724",
+    "label": "pacu jawi"
+  },
+  {
+    "id": "Q12765901",
+    "label": "Flygility"
+  },
+  {
+    "id": "Q12766689",
+    "label": "Hang time"
+  },
+  {
+    "id": "Q13200322",
+    "label": "Sampyong"
+  },
+  {
+    "id": "Q13412009",
+    "label": "ancient pentathlon"
+  },
+  {
+    "id": "Q13553653",
+    "label": "international fronton"
+  },
+  {
+    "id": "Q12628029",
+    "label": "Bload Bowl"
+  },
+  {
+    "id": "Q12815120",
+    "label": "lengőteke"
+  },
+  {
+    "id": "Q32485",
+    "label": "modern pentathlon"
+  },
+  {
+    "id": "Q11420",
+    "label": "judo"
+  },
+  {
+    "id": "Q40561",
+    "label": "sumo"
+  },
+  {
+    "id": "Q779272",
+    "label": "ice skating"
+  },
+  {
+    "id": "Q790199",
+    "label": "baranta"
+  },
+  {
+    "id": "Q763927",
+    "label": "masters athletics"
+  },
+  {
+    "id": "Q792635",
+    "label": "axe throwing"
+  },
+  {
+    "id": "Q685078",
+    "label": "Schwingen"
+  },
+  {
+    "id": "Q651295",
+    "label": "glima"
+  },
+  {
+    "id": "Q685697",
+    "label": "tamburello"
+  },
+  {
+    "id": "Q690676",
+    "label": "canoe polo"
+  },
+  {
+    "id": "Q18608406",
+    "label": "mushing"
+  },
+  {
+    "id": "Q17280101",
+    "label": "Padbol"
+  },
+  {
+    "id": "Q17625135",
+    "label": "pingpongo"
+  },
+  {
+    "id": "Q18128827",
+    "label": "Nouka Baich"
+  },
+  {
+    "id": "Q18129124",
+    "label": "Walking football"
+  },
+  {
+    "id": "Q18449224",
+    "label": "swimrun"
+  },
+  {
+    "id": "Q18629677",
+    "label": "para badminton"
+  }
+]

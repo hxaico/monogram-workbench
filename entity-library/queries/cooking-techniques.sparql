@@ -1,0 +1,12 @@
+# Cooking and food preparation techniques
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  {
+    ?item wdt:P31 wd:Q1039303 .  # instance of food preparation technique
+  } UNION {
+    ?item wdt:P279+ wd:Q1039303 .  # subclass of food preparation technique
+  }
+  ?item rdfs:label ?itemLabel .
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
+}
+LIMIT 500

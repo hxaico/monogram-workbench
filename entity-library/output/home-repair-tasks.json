@@ -1,0 +1,742 @@
+[
+  {
+    "id": "Q385378",
+    "label": "construction"
+  },
+  {
+    "id": "Q920600",
+    "label": "urban renewal"
+  },
+  {
+    "id": "Q487227",
+    "label": "anastylosis"
+  },
+  {
+    "id": "Q610353",
+    "label": "jumboisation"
+  },
+  {
+    "id": "Q694547",
+    "label": "traffic cone"
+  },
+  {
+    "id": "Q760072",
+    "label": "roof extensions"
+  },
+  {
+    "id": "Q571755",
+    "label": "Futuro"
+  },
+  {
+    "id": "Q695829",
+    "label": "real estate development"
+  },
+  {
+    "id": "Q2496090",
+    "label": "electrification of railway lines in the Netherlands"
+  },
+  {
+    "id": "Q374221",
+    "label": "transit-oriented development"
+  },
+  {
+    "id": "Q3587606",
+    "label": "Railway electrification in France"
+  },
+  {
+    "id": "Q803607",
+    "label": "Railway electrification in Norway"
+  },
+  {
+    "id": "Q1441983",
+    "label": "redevelopment"
+  },
+  {
+    "id": "Q1370468",
+    "label": "architectural reconstruction"
+  },
+  {
+    "id": "Q808926",
+    "label": "Barrier-free"
+  },
+  {
+    "id": "Q29585443",
+    "label": "demolition"
+  },
+  {
+    "id": "Q14474400",
+    "label": "railway electrification in Malaysia"
+  },
+  {
+    "id": "Q15706143",
+    "label": "М-464"
+  },
+  {
+    "id": "Q5162955",
+    "label": "Conservation development"
+  },
+  {
+    "id": "Q6417500",
+    "label": "kit house"
+  },
+  {
+    "id": "Q6484056",
+    "label": "land development"
+  },
+  {
+    "id": "Q7284242",
+    "label": "Railway electrification in Great Britain"
+  },
+  {
+    "id": "Q7284244",
+    "label": "Railway electrification in Iran"
+  },
+  {
+    "id": "Q7284245",
+    "label": "Railway electrification in Turkey"
+  },
+  {
+    "id": "Q7441786",
+    "label": "Sears Catalog Home"
+  },
+  {
+    "id": "Q29585434",
+    "label": "Construction of railways and underground railways"
+  },
+  {
+    "id": "Q29585439",
+    "label": "Construction of utility projects for electricity and telecommunications"
+  },
+  {
+    "id": "Q29585436",
+    "label": "Construction of bridges and tunnels"
+  },
+  {
+    "id": "Q29585437",
+    "label": "Construction of utility projects for fluids"
+  },
+  {
+    "id": "Q29585442",
+    "label": "Construction of other civil engineering projects n.e.c."
+  },
+  {
+    "id": "Q1076056",
+    "label": "electrification"
+  },
+  {
+    "id": "Q1128503",
+    "label": "container building"
+  },
+  {
+    "id": "Q1156667",
+    "label": "roof insulation"
+  },
+  {
+    "id": "Q1172856",
+    "label": "Roadwork of longer duration"
+  },
+  {
+    "id": "Q1255891",
+    "label": "straw-bale construction"
+  },
+  {
+    "id": "Q1366262",
+    "label": "interior pipe renovation"
+  },
+  {
+    "id": "Q3875186",
+    "label": "construction"
+  },
+  {
+    "id": "Q29585464",
+    "label": "roofing"
+  },
+  {
+    "id": "Q29585456",
+    "label": "plastering"
+  },
+  {
+    "id": "Q29585450",
+    "label": "electrical installation"
+  },
+  {
+    "id": "Q29585460",
+    "label": "floor and wall covering"
+  },
+  {
+    "id": "Q29585458",
+    "label": "joinery installation"
+  },
+  {
+    "id": "Q29585455",
+    "label": "other construction installation"
+  },
+  {
+    "id": "Q29585463",
+    "label": "other building completion and finishing"
+  },
+  {
+    "id": "Q29585453",
+    "label": "plumbing, heat and air conditioning installation"
+  },
+  {
+    "id": "Q29585466",
+    "label": "other specialised construction activities n.e.c."
+  },
+  {
+    "id": "Q29585461",
+    "label": "Painting and glazing"
+  },
+  {
+    "id": "Q29585447",
+    "label": "site preparation"
+  },
+  {
+    "id": "Q29585448",
+    "label": "test drilling and boring"
+  },
+  {
+    "id": "Q2478058",
+    "label": "reconstruction"
+  },
+  {
+    "id": "Q1799415",
+    "label": "house-building"
+  },
+  {
+    "id": "Q2202145",
+    "label": "new construction"
+  },
+  {
+    "id": "Q2349677",
+    "label": "road construction"
+  },
+  {
+    "id": "Q2309126",
+    "label": "self-build"
+  },
+  {
+    "id": "Q1555183",
+    "label": "modular construction"
+  },
+  {
+    "id": "Q3053713",
+    "label": "encasement"
+  },
+  {
+    "id": "Q2740343",
+    "label": "building insulation"
+  },
+  {
+    "id": "Q2908960",
+    "label": "cordwood construction"
+  },
+  {
+    "id": "Q2920737",
+    "label": "natural building"
+  },
+  {
+    "id": "Q3603874",
+    "label": "illegal construction"
+  },
+  {
+    "id": "Q10609179",
+    "label": "oil spill cleanup"
+  },
+  {
+    "id": "Q3587607",
+    "label": "rural electrification"
+  },
+  {
+    "id": "Q3629007",
+    "label": "prefabricated home"
+  },
+  {
+    "id": "Q3635230",
+    "label": "geometric design of roads"
+  },
+  {
+    "id": "Q4116154",
+    "label": "feature creep"
+  },
+  {
+    "id": "Q4179745",
+    "label": "instruction creep"
+  },
+  {
+    "id": "Q4887898",
+    "label": "Mission creep"
+  },
+  {
+    "id": "Q5164443",
+    "label": "construction barrel"
+  },
+  {
+    "id": "Q7333812",
+    "label": "rigid panel insulation"
+  },
+  {
+    "id": "Q6889733",
+    "label": "modular stadium"
+  },
+  {
+    "id": "Q1979261",
+    "label": "Neubau"
+  },
+  {
+    "id": "Q1424667",
+    "label": "modular building"
+  },
+  {
+    "id": "Q1540766",
+    "label": "No-Dig sewer renovation"
+  },
+  {
+    "id": "Q1660150",
+    "label": "steel design"
+  },
+  {
+    "id": "Q2478730",
+    "label": "track gauge conversion"
+  },
+  {
+    "id": "Q2532655",
+    "label": "Collective commissioning"
+  },
+  {
+    "id": "Q2625807",
+    "label": "private commissioning"
+  },
+  {
+    "id": "Q2681920",
+    "label": "scope creep"
+  },
+  {
+    "id": "Q2995803",
+    "label": "Sustainable neighbourhood contract"
+  },
+  {
+    "id": "Q3422086",
+    "label": "post-war reconstruction"
+  },
+  {
+    "id": "Q85311672",
+    "label": "Geschenkwoningen"
+  },
+  {
+    "id": "Q86661864",
+    "label": "rebuilding Kalisz"
+  },
+  {
+    "id": "Q99245317",
+    "label": "electrification of the Danish railways"
+  },
+  {
+    "id": "Q112165582",
+    "label": "site preparation industry"
+  },
+  {
+    "id": "Q42294470",
+    "label": "solar installation"
+  },
+  {
+    "id": "Q46858768",
+    "label": "electrification of railway lines in Belgium"
+  },
+  {
+    "id": "Q55022659",
+    "label": "land development in France"
+  },
+  {
+    "id": "Q56604585",
+    "label": "building ceramic industry"
+  },
+  {
+    "id": "Q110367870",
+    "label": "thatching"
+  },
+  {
+    "id": "Q109767692",
+    "label": "post-war reconstruction of Frankfurt"
+  },
+  {
+    "id": "Q111181251",
+    "label": "railway electrification in Poland"
+  },
+  {
+    "id": "Q112122737",
+    "label": "construction of residential and non-residential buildings"
+  },
+  {
+    "id": "Q112132326",
+    "label": "construction of water projects"
+  },
+  {
+    "id": "Q112165603",
+    "label": "metalwork and ironwork"
+  },
+  {
+    "id": "Q112223059",
+    "label": "reconstruction of Ukraine after the Russo-Ukrainian war"
+  },
+  {
+    "id": "Q12144907",
+    "label": "construction materials industry"
+  },
+  {
+    "id": "Q11455423",
+    "label": "housework electrification"
+  },
+  {
+    "id": "Q11788747",
+    "label": "vertical expansion"
+  },
+  {
+    "id": "Q12038457",
+    "label": "modular kindergarten"
+  },
+  {
+    "id": "Q18088477",
+    "label": "square lashing"
+  },
+  {
+    "id": "Q26213921",
+    "label": "slum clearance"
+  },
+  {
+    "id": "Q29584678",
+    "label": "construction of utility projects"
+  },
+  {
+    "id": "Q29584674",
+    "label": "development of building projects"
+  },
+  {
+    "id": "Q29584676",
+    "label": "construction of residential and non-residential buildings (NACE 41.2)"
+  },
+  {
+    "id": "Q29584677",
+    "label": "construction of roads and railways"
+  },
+  {
+    "id": "Q29584680",
+    "label": "construction of other civil engineering projects"
+  },
+  {
+    "id": "Q29584681",
+    "label": "demolition and site preparation"
+  },
+  {
+    "id": "Q29584684",
+    "label": "Electrical, plumbing and other construction installation activities"
+  },
+  {
+    "id": "Q12047327",
+    "label": "bars (engineering)"
+  },
+  {
+    "id": "Q4181026",
+    "label": "roadworks"
+  },
+  {
+    "id": "Q5202866",
+    "label": "pioneering"
+  },
+  {
+    "id": "Q10535301",
+    "label": "industrialised construction"
+  },
+  {
+    "id": "Q12301128",
+    "label": "low-income housing"
+  },
+  {
+    "id": "Q4861314",
+    "label": "barn raising"
+  },
+  {
+    "id": "Q7307215",
+    "label": "ship refit"
+  },
+  {
+    "id": "Q9323073",
+    "label": "horizontal expansion"
+  },
+  {
+    "id": "Q13405640",
+    "label": "construction industry"
+  },
+  {
+    "id": "Q19841649",
+    "label": "expansion"
+  },
+  {
+    "id": "Q13377238",
+    "label": "building construction"
+  },
+  {
+    "id": "Q18030906",
+    "label": "set construction"
+  },
+  {
+    "id": "Q20612431",
+    "label": "plant engineering"
+  },
+  {
+    "id": "Q20716734",
+    "label": "construction of electronic cigarettes"
+  },
+  {
+    "id": "Q130642511",
+    "label": "redevelopment promotion districts"
+  },
+  {
+    "id": "Q133282972",
+    "label": "Western Switzerland Association of Non-profit Building Owners"
+  },
+  {
+    "id": "Q134297036",
+    "label": "Low-cost housing"
+  },
+  {
+    "id": "Q135244181",
+    "label": "Olympification"
+  },
+  {
+    "id": "Q135485698",
+    "label": "shell expansion"
+  },
+  {
+    "id": "Q137425839",
+    "label": "engineering in building industry"
+  },
+  {
+    "id": "Q113145992",
+    "label": "rehabilitation"
+  },
+  {
+    "id": "Q112969975",
+    "label": "Building information modelling and management"
+  },
+  {
+    "id": "Q113016322",
+    "label": "traditional Chinese wooden arch bridge"
+  },
+  {
+    "id": "Q113135108",
+    "label": "building industry studies"
+  },
+  {
+    "id": "Q114732812",
+    "label": "home insulation"
+  },
+  {
+    "id": "Q115681801",
+    "label": "Social access to property"
+  },
+  {
+    "id": "Q117221359",
+    "label": "composite steel and concrete structure"
+  },
+  {
+    "id": "Q98078923",
+    "label": "underwater construction"
+  },
+  {
+    "id": "Q21155146",
+    "label": "bridge construction"
+  },
+  {
+    "id": "Q24037666",
+    "label": "Fortification tunnels"
+  },
+  {
+    "id": "Q24258379",
+    "label": "Jackblock construction technique"
+  },
+  {
+    "id": "Q52385658",
+    "label": "rebuilding"
+  },
+  {
+    "id": "Q25451399",
+    "label": "additional development (construction)"
+  },
+  {
+    "id": "Q29584305",
+    "label": "specialised construction activities"
+  },
+  {
+    "id": "Q30327019",
+    "label": "post and lintel"
+  },
+  {
+    "id": "Q56289407",
+    "label": "renovation for repurposing"
+  },
+  {
+    "id": "Q58871051",
+    "label": "alvariza"
+  },
+  {
+    "id": "Q60541593",
+    "label": "installation of infrastructure"
+  },
+  {
+    "id": "Q65805058",
+    "label": "Earth structure"
+  },
+  {
+    "id": "Q63953027",
+    "label": "building structure"
+  },
+  {
+    "id": "Q116203539",
+    "label": "fire-resistive construction"
+  },
+  {
+    "id": "Q136281859",
+    "label": "motorway construction"
+  },
+  {
+    "id": "Q116505430",
+    "label": "building of piece of piece houses"
+  },
+  {
+    "id": "Q116961484",
+    "label": "traffic cones & barrel"
+  },
+  {
+    "id": "Q86502268",
+    "label": "environmental reconstruction"
+  },
+  {
+    "id": "Q99196116",
+    "label": "electrification of railway network"
+  },
+  {
+    "id": "Q29584685",
+    "label": "building completion and finishing"
+  },
+  {
+    "id": "Q29584687",
+    "label": "other specialised construction activities"
+  },
+  {
+    "id": "Q29585433",
+    "label": "Construction of roads and motorways"
+  },
+  {
+    "id": "Q42553590",
+    "label": "building restoration"
+  },
+  {
+    "id": "Q101402832",
+    "label": "cold insulation"
+  },
+  {
+    "id": "Q60775083",
+    "label": "road expansion"
+  },
+  {
+    "id": "Q104870168",
+    "label": "Automation in construction"
+  },
+  {
+    "id": "Q105664419",
+    "label": "Construction Technology"
+  },
+  {
+    "id": "Q65892103",
+    "label": "telephonization"
+  },
+  {
+    "id": "Q111011408",
+    "label": "paving"
+  },
+  {
+    "id": "Q109352848",
+    "label": "building refit"
+  },
+  {
+    "id": "Q109538882",
+    "label": "plaster construction"
+  },
+  {
+    "id": "Q109596659",
+    "label": "telecommunications construction business"
+  },
+  {
+    "id": "Q109946875",
+    "label": "construction industry in Belarus"
+  },
+  {
+    "id": "Q73303844",
+    "label": "civil engineering"
+  },
+  {
+    "id": "Q70732969",
+    "label": "exhibition construction"
+  },
+  {
+    "id": "Q122442276",
+    "label": "Mr. Electric"
+  },
+  {
+    "id": "Q131429185",
+    "label": "zinc roofers and ornamentalists"
+  },
+  {
+    "id": "Q135508665",
+    "label": "brace expansion"
+  },
+  {
+    "id": "Q135652571",
+    "label": "arithmetic expansion"
+  },
+  {
+    "id": "Q135658984",
+    "label": "history expansion"
+  },
+  {
+    "id": "Q119396815",
+    "label": "cleaning up"
+  },
+  {
+    "id": "Q113483390",
+    "label": "leggat"
+  },
+  {
+    "id": "Q115599165",
+    "label": "concrete products industry"
+  },
+  {
+    "id": "Q109666574",
+    "label": "recapping"
+  },
+  {
+    "id": "Q113001376",
+    "label": "full automatization of underground railway line"
+  },
+  {
+    "id": "Q117481323",
+    "label": "House Front Elevation Design"
+  },
+  {
+    "id": "Q2144402",
+    "label": "renovation"
+  },
+  {
+    "id": "Q2789106",
+    "label": "home improvement"
+  },
+  {
+    "id": "Q2468944",
+    "label": "seismic retrofit"
+  },
+  {
+    "id": "Q24662",
+    "label": "retrofitting"
+  }
+]

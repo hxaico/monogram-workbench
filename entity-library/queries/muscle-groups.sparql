@@ -1,8 +1,8 @@
-# Food ingredients - types only (not specific products)
+# Human muscles - major muscle types
 SELECT DISTINCT ?item ?itemLabel WHERE {
-  ?item wdt:P279+ wd:Q25403900 .  # subclass of food ingredient (not instances)
+  ?item wdt:P31 wd:Q125984341 .  # instance of "chiral muscle organ type"
   ?item rdfs:label ?itemLabel .
   FILTER(LANG(?itemLabel) = "en")
   FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
 }
-LIMIT 1000
+LIMIT 500

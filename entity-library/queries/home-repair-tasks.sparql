@@ -1,0 +1,12 @@
+# Home repair and construction activities
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  {
+    ?item wdt:P279* wd:Q3875186 .  # subclass of construction (process)
+  } UNION {
+    ?item wdt:P279* wd:Q2144402 .  # subclass of renovation
+  }
+  ?item rdfs:label ?itemLabel .
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
+}
+LIMIT 500

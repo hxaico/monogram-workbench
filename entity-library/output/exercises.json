@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "Q27996816",
+    "label": "Bound Inverted Tortoise Pose"
+  },
+  {
+    "id": "Q1709080",
+    "label": "Sarvangasana"
+  },
+  {
+    "id": "Q2281572",
+    "label": "shirshasana"
+  },
+  {
+    "id": "Q3321172",
+    "label": "Viparita Karani"
+  },
+  {
+    "id": "Q320555",
+    "label": "Abhayamudra"
+  },
+  {
+    "id": "Q196299",
+    "label": "Mountain Pose"
+  },
+  {
+    "id": "Q373896",
+    "label": "Dhyanamudra"
+  },
+  {
+    "id": "Q474197",
+    "label": "Padmāsana"
+  },
+  {
+    "id": "Q3844448",
+    "label": "mandukasana"
+  },
+  {
+    "id": "Q3896890",
+    "label": "Parvatasana"
+  },
+  {
+    "id": "Q4700299",
+    "label": "Akarna Dhanurasana"
+  },
+  {
+    "id": "Q4751458",
+    "label": "Anantasana"
+  },
+  {
+    "id": "Q4788021",
+    "label": "Half Moon pose"
+  },
+  {
+    "id": "Q4810582",
+    "label": "Astavakrasana"
+  },
+  {
+    "id": "Q4839561",
+    "label": "backbend"
+  },
+  {
+    "id": "Q4901074",
+    "label": "Bharadvajasana"
+  },
+  {
+    "id": "Q4902116",
+    "label": "Bhujapidasana"
+  },
+  {
+    "id": "Q5087984",
+    "label": "Four-Limbed Staff Pose"
+  },
+  {
+    "id": "Q5318089",
+    "label": "Viparita dandasana"
+  },
+  {
+    "id": "Q5350262",
+    "label": "Eka Pada Koundinyasana I"
+  },
+  {
+    "id": "Q5350261",
+    "label": "Eka Pada Koundinyasana II"
+  },
+  {
+    "id": "Q5459274",
+    "label": "Purvottanasana"
+  },
+  {
+    "id": "Q5523433",
+    "label": "Garland Pose"
+  },
+  {
+    "id": "Q6366947",
+    "label": "Kapotāsana"
+  },
+  {
+    "id": "Q6116752",
+    "label": "Jackknife"
+  },
+  {
+    "id": "Q1903421",
+    "label": "Gomukhāsana"
+  },
+  {
+    "id": "Q2627353",
+    "label": "Parivrtta Pārśvakonasana"
+  },
+  {
+    "id": "Q3663313",
+    "label": "Padahastasana"
+  },
+  {
+    "id": "Q4901657",
+    "label": "Bhekasana"
+  },
+  {
+    "id": "Q797080",
+    "label": "Cakrāsana"
+  },
+  {
+    "id": "Q863522",
+    "label": "Bhujangasana"
+  },
+  {
+    "id": "Q584528",
+    "label": "Mahamudra"
+  },
+  {
+    "id": "Q587750",
+    "label": "Crow Pose"
+  },
+  {
+    "id": "Q636621",
+    "label": "Uttanapadasana"
+  },
+  {
+    "id": "Q639721",
+    "label": "Tree Pose"
+  },
+  {
+    "id": "Q644685",
+    "label": "Hanumanasana"
+  },
+  {
+    "id": "Q796475",
+    "label": "Pavanamuktasana"
+  },
+  {
+    "id": "Q796473",
+    "label": "Turtle Pose"
+  },
+  {
+    "id": "Q995971",
+    "label": "bridge"
+  },
+  {
+    "id": "Q1554010",
+    "label": "handstand"
+  },
+  {
+    "id": "Q797037",
+    "label": "Camel Pose"
+  },
+  {
+    "id": "Q863277",
+    "label": "Dhanurasana"
+  },
+  {
+    "id": "Q863529",
+    "label": "Paścimottānāsana"
+  },
+  {
+    "id": "Q27996831",
+    "label": "Anahata Chakra Baddha Hasta Virabhadrasana"
+  },
+  {
+    "id": "Q27996851",
+    "label": "Baddha Hasta Tadasana"
+  },
+  {
+    "id": "Q27996849",
+    "label": "Baddha Hasta Utthita Stiti Shalabhasana"
+  },
+  {
+    "id": "Q27996862",
+    "label": "Bala Shalabhasana"
+  },
+  {
+    "id": "Q27996867",
+    "label": "Ardha Padma Eka Pada Malasana"
+  },
+  {
+    "id": "Q27996861",
+    "label": "Baddha Hasta Malasana"
+  },
+  {
+    "id": "Q27996830",
+    "label": "Eka Pāda Rājakapotāsana II"
+  },
+  {
+    "id": "Q27996828",
+    "label": "Eka Pada Sirsa Prapadasana"
+  },
+  {
+    "id": "Q27996837",
+    "label": "Eka Pada Baddha Malasana"
+  },
+  {
+    "id": "Q27996847",
+    "label": "Eka Pada Indudalasana"
+  },
+  {
+    "id": "Q27996842",
+    "label": "Gitanandasana"
+  },
+  {
+    "id": "Q27996838",
+    "label": "Hasta Padasana 1"
+  },
+  {
+    "id": "Q27996866",
+    "label": "Gaja Vadivu"
+  },
+  {
+    "id": "Q27996846",
+    "label": "Indudalasana"
+  },
+  {
+    "id": "Q27996868",
+    "label": "Hindolasana in Eka Pada Prapadasana"
+  },
+  {
+    "id": "Q27996834",
+    "label": "Mulabandhasana"
+  },
+  {
+    "id": "Q27996832",
+    "label": "Nama Baddha Hasta Virabhadrasana"
+  },
+  {
+    "id": "Q27996827",
+    "label": "Padmasana in Mayurasana"
+  },
+  {
+    "id": "Q27996843",
+    "label": "Niralamba Baddha Eka Pada Uttanasana"
+  },
+  {
+    "id": "Q27996839",
+    "label": "Patan Vrikshasana 2"
+  },
+  {
+    "id": "Q27996845",
+    "label": "Parshvasana"
+  },
+  {
+    "id": "Q27996836",
+    "label": "Prapadasana"
+  },
+  {
+    "id": "Q27996853",
+    "label": "Parivrtta Ardha Chandrachapasana"
+  },
+  {
+    "id": "Q27996858",
+    "label": "Parivrtta Svarga Dvijasana"
+  },
+  {
+    "id": "Q27996859",
+    "label": "Parivrtta Utthita Pada Hastasana"
+  },
+  {
+    "id": "Q27996863",
+    "label": "Parivrtta Salamba Hasta Padasana"
+  },
+  {
+    "id": "Q27996869",
+    "label": "Parivrtta Prapadasana"
+  },
+  {
+    "id": "Q27996864",
+    "label": "Prapada Matsyendrasana"
+  },
+  {
+    "id": "Q27996829",
+    "label": "Viparita Virabhadrasana"
+  },
+  {
+    "id": "Q27996852",
+    "label": "Stiti Urdhva Mukgattana Kulpa Dhanurasana"
+  },
+  {
+    "id": "Q27996844",
+    "label": "Tiryak Tala-Vrikshasana"
+  },
+  {
+    "id": "Q27996835",
+    "label": "Yoni Dandasana"
+  },
+  {
+    "id": "Q27996840",
+    "label": "Viparita Namaskar Tadasana"
+  },
+  {
+    "id": "Q27996855",
+    "label": "Trivikramasana"
+  },
+  {
+    "id": "Q27996848",
+    "label": "Utthita Stiti Bhujangasana"
+  },
+  {
+    "id": "Q27996854",
+    "label": "Utthita Ekapadasana"
+  },
+  {
+    "id": "Q27996856",
+    "label": "Utthita Trivikramasana"
+  },
+  {
+    "id": "Q27996857",
+    "label": "Utthita Stiti Surya Yantrasana"
+  },
+  {
+    "id": "Q27996865",
+    "label": "Utthita Parshva Pashasana"
+  },
+  {
+    "id": "Q27996860",
+    "label": "Yoganandasana"
+  },
+  {
+    "id": "Q10375373",
+    "label": "Svastikasana"
+  },
+  {
+    "id": "Q12436327",
+    "label": "Boat Pose"
+  },
+  {
+    "id": "Q10355512",
+    "label": "Dandasana"
+  },
+  {
+    "id": "Q6442512",
+    "label": "Kukkutasana"
+  },
+  {
+    "id": "Q7141619",
+    "label": "Pasasana"
+  },
+  {
+    "id": "Q7141970",
+    "label": "Pashchima Namaskarasana"
+  },
+  {
+    "id": "Q7425008",
+    "label": "Sasangasana"
+  },
+  {
+    "id": "Q7645157",
+    "label": "Supta Virasana"
+  },
+  {
+    "id": "Q7851967",
+    "label": "Tulasana"
+  },
+  {
+    "id": "Q7900313",
+    "label": "Upward Tree Position"
+  },
+  {
+    "id": "Q7903315",
+    "label": "Uttana Shishosana"
+  },
+  {
+    "id": "Q7945038",
+    "label": "Hero Pose"
+  },
+  {
+    "id": "Q9656223",
+    "label": "Bhadrasana"
+  },
+  {
+    "id": "Q27996822",
+    "label": "Baddha Samakonasana"
+  },
+  {
+    "id": "Q27996824",
+    "label": "Ardha kamalamunyasana"
+  },
+  {
+    "id": "Q27996810",
+    "label": "Eka Pada Galavasana"
+  },
+  {
+    "id": "Q27996812",
+    "label": "Eka Pada Sirsa Bakasana"
+  },
+  {
+    "id": "Q27996809",
+    "label": "Graceful Thunderbolt Pose"
+  },
+  {
+    "id": "Q27996826",
+    "label": "Galavasana"
+  },
+  {
+    "id": "Q27996815",
+    "label": "Inverted Tip Toe Bow Pose"
+  },
+  {
+    "id": "Q27996811",
+    "label": "Kala Bhairavasana"
+  },
+  {
+    "id": "Q27996804",
+    "label": "Parivrtta Ardha Chandrasana"
+  },
+  {
+    "id": "Q27996819",
+    "label": "One Legged Upward Bow Pose"
+  },
+  {
+    "id": "Q27996823",
+    "label": "Parsva Dandasana"
+  },
+  {
+    "id": "Q27996801",
+    "label": "Shatkonasana"
+  },
+  {
+    "id": "Q27996805",
+    "label": "Svarga Dvijasana"
+  },
+  {
+    "id": "Q27996803",
+    "label": "Tiryang Mukhottanasana"
+  },
+  {
+    "id": "Q27996814",
+    "label": "Tip Toe Pigeon Pose"
+  },
+  {
+    "id": "Q27996818",
+    "label": "Tip Toe Hero Pose"
+  },
+  {
+    "id": "Q27996800",
+    "label": "Yoganidrasana"
+  },
+  {
+    "id": "Q27996817",
+    "label": "Unsupported Shoulderstand Pose"
+  },
+  {
+    "id": "Q27996821",
+    "label": "Upward Lotus Pose in Unsupported Shoulderstand Pose"
+  },
+  {
+    "id": "Q24949980",
+    "label": "Eka Pāda Rājakapotāsana I"
+  },
+  {
+    "id": "Q24950026",
+    "label": "Parivṛtta Baddha Pārśvakoṇāsana"
+  },
+  {
+    "id": "Q24950028",
+    "label": "Parsvottanāsana"
+  },
+  {
+    "id": "Q24950101",
+    "label": "Supta Padangustasana I"
+  },
+  {
+    "id": "Q24950100",
+    "label": "Utthitahastapādāṅguṣṭhāsana"
+  },
+  {
+    "id": "Q24950350",
+    "label": "Vasiṣṭhāsana"
+  },
+  {
+    "id": "Q25313767",
+    "label": "Vātāyanāsana"
+  },
+  {
+    "id": "Q25345230",
+    "label": "Scorpion pose"
+  },
+  {
+    "id": "Q27996045",
+    "label": "Ananda Balasana"
+  },
+  {
+    "id": "Q27996284",
+    "label": "Ardha Baddha Parivrtta Malasana"
+  },
+  {
+    "id": "Q27996290",
+    "label": "Baddha Malasana"
+  },
+  {
+    "id": "Q27996294",
+    "label": "Baddha Natarajasana"
+  },
+  {
+    "id": "Q27996321",
+    "label": "Chakra Bandhasana"
+  },
+  {
+    "id": "Q27996342",
+    "label": "Dwi Hasta Padasana"
+  },
+  {
+    "id": "Q27996388",
+    "label": "Uttanakūrmāsana"
+  },
+  {
+    "id": "Q27996563",
+    "label": "Eka Hasta Bhujasana"
+  },
+  {
+    "id": "Q27996564",
+    "label": "Eka Pada Bakasana 1"
+  },
+  {
+    "id": "Q27996603",
+    "label": "Hasta Pada Parshva Prapadasana"
+  },
+  {
+    "id": "Q27996785",
+    "label": "Ardha ustrasana"
+  },
+  {
+    "id": "Q27996796",
+    "label": "Dvi Pāda Śīrṣāsana"
+  },
+  {
+    "id": "Q27996784",
+    "label": "One Legged Inverted Staff Pose"
+  },
+  {
+    "id": "Q27996780",
+    "label": "Parighāsana"
+  },
+  {
+    "id": "Q27996781",
+    "label": "Parivrtta Dwi Pada Baddha Utkatasana"
+  },
+  {
+    "id": "Q27996789",
+    "label": "Padma Pinyamayūrasana"
+  },
+  {
+    "id": "Q27996786",
+    "label": "Paryaṅkāsana"
+  },
+  {
+    "id": "Q27996790",
+    "label": "Prasāritapādottānāsana"
+  },
+  {
+    "id": "Q27996794",
+    "label": "Setubandha-sarvāṅgāsana"
+  },
+  {
+    "id": "Q27996792",
+    "label": "Suptabaddha-koṇāsana"
+  },
+  {
+    "id": "Q27996793",
+    "label": "Suptakoṇāsana"
+  },
+  {
+    "id": "Q27996799",
+    "label": "Tarasana"
+  },
+  {
+    "id": "Q27996798",
+    "label": "Yoga Mudrasana"
+  },
+  {
+    "id": "Q27996797",
+    "label": "Yogadandasana"
+  },
+  {
+    "id": "Q12459994",
+    "label": "Halasana"
+  },
+  {
+    "id": "Q12762835",
+    "label": "Baddha padmasana"
+  },
+  {
+    "id": "Q13118931",
+    "label": "Prayer Pose"
+  },
+  {
+    "id": "Q14512149",
+    "label": "Utthita Tadasana"
+  },
+  {
+    "id": "Q17059947",
+    "label": "Eka Pāda Rājakapotāsana"
+  },
+  {
+    "id": "Q18243494",
+    "label": "Chatuspadasana"
+  },
+  {
+    "id": "Q19892548",
+    "label": "Karnapidasana"
+  },
+  {
+    "id": "Q19893378",
+    "label": "Lolasana"
+  },
+  {
+    "id": "Q24886228",
+    "label": "Biḍālāsana"
+  },
+  {
+    "id": "Q24886259",
+    "label": "Ekapādaśīrṣāsana"
+  },
+  {
+    "id": "Q24886366",
+    "label": "Guptāsana"
+  },
+  {
+    "id": "Q24886381",
+    "label": "Jathara Parivartanasana"
+  },
+  {
+    "id": "Q24886408",
+    "label": "Krāuñcāsana"
+  },
+  {
+    "id": "Q24887729",
+    "label": "Muktahastaśīrṣāsana"
+  },
+  {
+    "id": "Q24887757",
+    "label": "Muktāsana"
+  },
+  {
+    "id": "Q24927687",
+    "label": "Mandalasana"
+  },
+  {
+    "id": "Q134445801",
+    "label": "Kati Chakrasana"
+  },
+  {
+    "id": "Q137886761",
+    "label": "Adho Mukha Vrikshasana"
+  },
+  {
+    "id": "Q137886764",
+    "label": "Ardha Baddha Padma Paschimottanasana"
+  },
+  {
+    "id": "Q137908890",
+    "label": "Chamatkarasana"
+  },
+  {
+    "id": "Q137908907",
+    "label": "Dwihasta Padasana"
+  },
+  {
+    "id": "Q137908914",
+    "label": "Dwipada koundinyasana"
+  },
+  {
+    "id": "Q137848057",
+    "label": "Baddha Virabhadrasana"
+  },
+  {
+    "id": "Q137919409",
+    "label": "Dandayamana Bharmanasana"
+  },
+  {
+    "id": "Q110193882",
+    "label": "Uttana Mandukāsana"
+  },
+  {
+    "id": "Q110497793",
+    "label": "Kakasana"
+  },
+  {
+    "id": "Q117210054",
+    "label": "Yashtikasana"
+  },
+  {
+    "id": "Q121599916",
+    "label": "Matsyendra's Pose"
+  },
+  {
+    "id": "Q1751846",
+    "label": "Hasta Uttanasana"
+  },
+  {
+    "id": "Q1816140",
+    "label": "One-Handed Handstand"
+  },
+  {
+    "id": "Q1839786",
+    "label": "Añjali Mudrā"
+  },
+  {
+    "id": "Q1750663",
+    "label": "Locust Pose"
+  },
+  {
+    "id": "Q1866767",
+    "label": "Staff Pose"
+  },
+  {
+    "id": "Q1871481",
+    "label": "Katushpada Pitham"
+  },
+  {
+    "id": "Q1902774",
+    "label": "Marichyasana III"
+  },
+  {
+    "id": "Q1908994",
+    "label": "Prasarita padottanasana"
+  },
+  {
+    "id": "Q1944662",
+    "label": "Prithvi mudra"
+  },
+  {
+    "id": "Q1950152",
+    "label": "Chair Pose"
+  },
+  {
+    "id": "Q2003190",
+    "label": "Mārjāryāsana"
+  },
+  {
+    "id": "Q2034126",
+    "label": "Añjaneyāsana"
+  },
+  {
+    "id": "Q2082454",
+    "label": "Knee-to-Head Pose"
+  },
+  {
+    "id": "Q84723079",
+    "label": "Urdha Mukha Svanasana"
+  },
+  {
+    "id": "Q85019348",
+    "label": "Urdhva Hastasana"
+  },
+  {
+    "id": "Q85119643",
+    "label": "Parivritta Trikonasana"
+  },
+  {
+    "id": "Q27996872",
+    "label": "Baddha Koormamunyasana"
+  },
+  {
+    "id": "Q27996871",
+    "label": "One Legged Scorpion Pose"
+  },
+  {
+    "id": "Q27996885",
+    "label": "Parivṛttatrikoṇāsana"
+  },
+  {
+    "id": "Q27996870",
+    "label": "Uttana Kulpa Prapada Utkatasana 3"
+  },
+  {
+    "id": "Q28765317",
+    "label": "Ardha Baddha Nantum Natarajasana"
+  },
+  {
+    "id": "Q28765323",
+    "label": "Ardha Chandrachapasana"
+  },
+  {
+    "id": "Q28765321",
+    "label": "Baddha Eka Pada Uttanasana"
+  },
+  {
+    "id": "Q28765327",
+    "label": "Baddha Hasta Utthita Stiti Vayu Muktyasana"
+  },
+  {
+    "id": "Q28765328",
+    "label": "Dwi Hasta Pada Utthita Stiti Eka Pada Bhekasana"
+  },
+  {
+    "id": "Q28765332",
+    "label": "Dwi Pada Koundinyasana"
+  },
+  {
+    "id": "Q28765335",
+    "label": "Eka Hasta Parshvasana"
+  },
+  {
+    "id": "Q28765339",
+    "label": "Eka Pada Niralamba Navasana"
+  },
+  {
+    "id": "Q28765343",
+    "label": "Hasta Naginyasana in Nantum Natarajasana"
+  },
+  {
+    "id": "Q28765345",
+    "label": "Hasta Naginyasana in Natarajasana"
+  },
+  {
+    "id": "Q28765349",
+    "label": "Hasta Pada Parivritta Ardha Chandrachapasana"
+  },
+  {
+    "id": "Q28765354",
+    "label": "Jatharaparivrttasvastikasana"
+  },
+  {
+    "id": "Q28765352",
+    "label": "Jathara Urdhva Mukha Paschimottanasana"
+  },
+  {
+    "id": "Q28765355",
+    "label": "Lasyasana"
+  },
+  {
+    "id": "Q28765359",
+    "label": "Niralamba Baddha Eka Pada Uttanasana 2"
+  },
+  {
+    "id": "Q28765363",
+    "label": "Narasimhasana in Malasana"
+  },
+  {
+    "id": "Q28765366",
+    "label": "Nantum Natarajasana"
+  },
+  {
+    "id": "Q28765361",
+    "label": "Nindra Utthita Vayu Muktyasana"
+  },
+  {
+    "id": "Q28765368",
+    "label": "Namaskar Natarajasana"
+  },
+  {
+    "id": "Q28765370",
+    "label": "Parivritta Urdhva Tadasana Urdhva Baddha Hastasana"
+  },
+  {
+    "id": "Q55109379",
+    "label": "Goddess Pose"
+  },
+  {
+    "id": "Q55109397",
+    "label": "Standing Half Forward Fold"
+  },
+  {
+    "id": "Q58034686",
+    "label": "Dvi Pada Viparita Dandásana"
+  },
+  {
+    "id": "Q59466801",
+    "label": "Utthita Trikonásana"
+  },
+  {
+    "id": "Q60760504",
+    "label": "Utthita Pādāṅguṣṭhāsana"
+  },
+  {
+    "id": "Q60788830",
+    "label": "Marichyasana"
+  },
+  {
+    "id": "Q48889627",
+    "label": "Yogāsana"
+  },
+  {
+    "id": "Q110124606",
+    "label": "Bhairavasana"
+  },
+  {
+    "id": "Q110125407",
+    "label": "kneeling asanas"
+  },
+  {
+    "id": "Q110147673",
+    "label": "Ganda bherundasana"
+  },
+  {
+    "id": "Q2089437",
+    "label": "Warrior I"
+  },
+  {
+    "id": "Q2083979",
+    "label": "Half lord of the fishes pose"
+  },
+  {
+    "id": "Q2085923",
+    "label": "Bharmanasana"
+  },
+  {
+    "id": "Q2112686",
+    "label": "Makarāsana"
+  },
+  {
+    "id": "Q2159548",
+    "label": "Matsyasana"
+  },
+  {
+    "id": "Q2192831",
+    "label": "Cobbler Pose"
+  },
+  {
+    "id": "Q2194698",
+    "label": "Padma Sarvangasana"
+  },
+  {
+    "id": "Q2223172",
+    "label": "Gomukha mudra"
+  },
+  {
+    "id": "Q2237104",
+    "label": "Phalakâsana"
+  },
+  {
+    "id": "Q2386949",
+    "label": "Simhasana"
+  },
+  {
+    "id": "Q2245741",
+    "label": "Uddiyana bandha"
+  },
+  {
+    "id": "Q2250138",
+    "label": "Eight-Limbed Salutation"
+  },
+  {
+    "id": "Q2262762",
+    "label": "Parivṛtta Trikoṇāsana"
+  },
+  {
+    "id": "Q2294291",
+    "label": "Open Angle Pose"
+  },
+  {
+    "id": "Q2321985",
+    "label": "Full Boat Pose"
+  },
+  {
+    "id": "Q2381815",
+    "label": "Feathered Peacock Pose"
+  },
+  {
+    "id": "Q2391691",
+    "label": "Ashwa sanchalanasana"
+  },
+  {
+    "id": "Q2403072",
+    "label": "Khecarī mudrā"
+  },
+  {
+    "id": "Q2403196",
+    "label": "Shiva mudra"
+  },
+  {
+    "id": "Q2413393",
+    "label": "Standing Forward Bend"
+  },
+  {
+    "id": "Q2703196",
+    "label": "Child's Pose"
+  },
+  {
+    "id": "Q2433186",
+    "label": "Shoulder supported Bridge"
+  },
+  {
+    "id": "Q2435158",
+    "label": "Downward-Facing Dog Pose"
+  },
+  {
+    "id": "Q2547328",
+    "label": "Extended Side Angle Pose"
+  },
+  {
+    "id": "Q2655354",
+    "label": "yoni mudra"
+  },
+  {
+    "id": "Q2717006",
+    "label": "Mayurasana"
+  },
+  {
+    "id": "Q123136472",
+    "label": "jnanamusti mudra"
+  },
+  {
+    "id": "Q124000937",
+    "label": "Hindu push-up"
+  },
+  {
+    "id": "Q133415239",
+    "label": "hanging crunches"
+  },
+  {
+    "id": "Q135013812",
+    "label": "Copenhagen plank"
+  },
+  {
+    "id": "Q96483005",
+    "label": "Shambhavi mudra"
+  },
+  {
+    "id": "Q98067966",
+    "label": "squat thrust"
+  },
+  {
+    "id": "Q17061127",
+    "label": "Mahamudra"
+  },
+  {
+    "id": "Q3094383",
+    "label": "plank"
+  },
+  {
+    "id": "Q2794066",
+    "label": "Warrior II"
+  },
+  {
+    "id": "Q2766810",
+    "label": "Warrior III"
+  },
+  {
+    "id": "Q2858117",
+    "label": "Apanasana"
+  },
+  {
+    "id": "Q2914220",
+    "label": "Urdhvamukhasvanasana"
+  },
+  {
+    "id": "Q3429340",
+    "label": "Triangle Pose"
+  },
+  {
+    "id": "Q3554667",
+    "label": "Varadamudra"
+  },
+  {
+    "id": "Q14333752",
+    "label": "Shanti mudra"
+  },
+  {
+    "id": "Q3639296",
+    "label": "Bhujanginimudra"
+  },
+  {
+    "id": "Q3639297",
+    "label": "Bhūmisparśa Mudrā"
+  },
+  {
+    "id": "Q3662991",
+    "label": "Garbhasana"
+  },
+  {
+    "id": "Q3663296",
+    "label": "Natarajasana"
+  },
+  {
+    "id": "Q3663594",
+    "label": "Eagle Pose"
+  },
+  {
+    "id": "Q3773441",
+    "label": "Gorakshasana"
+  },
+  {
+    "id": "Q3961048",
+    "label": "Simhamudra"
+  },
+  {
+    "id": "Q4839319",
+    "label": "back lever"
+  },
+  {
+    "id": "Q6723722",
+    "label": "machine fly"
+  },
+  {
+    "id": "Q7644393",
+    "label": "Supine row"
+  },
+  {
+    "id": "Q7908940",
+    "label": "Vajra Mushti"
+  },
+  {
+    "id": "Q500622",
+    "label": "head stand"
+  },
+  {
+    "id": "Q506017",
+    "label": "sukhasana"
+  },
+  {
+    "id": "Q208030",
+    "label": "mudra"
+  },
+  {
+    "id": "Q43417",
+    "label": "dip"
+  },
+  {
+    "id": "Q2019129",
+    "label": "Shavasana"
+  },
+  {
+    "id": "Q2043002",
+    "label": "Vajrasana"
+  },
+  {
+    "id": "Q466797",
+    "label": "asana"
+  },
+  {
+    "id": "Q450743",
+    "label": "bodyweight exercise"
+  },
+  {
+    "id": "Q320575",
+    "label": "press-up"
+  },
+  {
+    "id": "Q2088128",
+    "label": "Siddhasana"
+  },
+  {
+    "id": "Q811154",
+    "label": "crunch"
+  },
+  {
+    "id": "Q609747",
+    "label": "sit-up"
+  },
+  {
+    "id": "Q1048487",
+    "label": "pull up"
+  },
+  {
+    "id": "Q1139357",
+    "label": "Sun Salutation"
+  },
+  {
+    "id": "Q1755746",
+    "label": "squat"
+  },
+  {
+    "id": "Q2471790",
+    "label": "calisthenics"
+  },
+  {
+    "id": "Q2451755",
+    "label": "stair climbing"
+  },
+  {
+    "id": "Q2548000",
+    "label": "Moon Salutation"
+  },
+  {
+    "id": "Q3270872",
+    "label": "burpee"
+  },
+  {
+    "id": "Q3398513",
+    "label": "leg raise"
+  },
+  {
+    "id": "Q3543774",
+    "label": "abdominal exercise"
+  },
+  {
+    "id": "Q5462988",
+    "label": "flutter kick"
+  },
+  {
+    "id": "Q5647669",
+    "label": "handstand push-up"
+  },
+  {
+    "id": "Q4411770",
+    "label": "squeezing asanas"
+  },
+  {
+    "id": "Q4422582",
+    "label": "twisting asana"
+  },
+  {
+    "id": "Q137857277",
+    "label": "Push-up"
+  },
+  {
+    "id": "Q110147253",
+    "label": "inverted asana"
+  },
+  {
+    "id": "Q114081704",
+    "label": "Shikhara mudra"
+  },
+  {
+    "id": "Q133246279",
+    "label": "one-armed pull-up"
+  },
+  {
+    "id": "Q29001212",
+    "label": "stretching asanas"
+  },
+  {
+    "id": "Q65072644",
+    "label": "standing asanas"
+  },
+  {
+    "id": "Q110123989",
+    "label": "sitting asana"
+  },
+  {
+    "id": "Q110124501",
+    "label": "reclining asana"
+  },
+  {
+    "id": "Q110147133",
+    "label": "balancing asana"
+  },
+  {
+    "id": "Q10370861",
+    "label": "tantric sex"
+  },
+  {
+    "id": "Q15058033",
+    "label": "chin-up"
+  },
+  {
+    "id": "Q16618469",
+    "label": "twist"
+  },
+  {
+    "id": "Q7578695",
+    "label": "split jump"
+  },
+  {
+    "id": "Q15069887",
+    "label": "human flag"
+  },
+  {
+    "id": "Q6372701",
+    "label": "karmamudrā"
+  },
+  {
+    "id": "Q23925181",
+    "label": "muscle-up"
+  },
+  {
+    "id": "Q7200978",
+    "label": "planche"
+  },
+  {
+    "id": "Q7382294",
+    "label": "Russian twist"
+  },
+  {
+    "id": "Q7962673",
+    "label": "wall sit"
+  }
+]

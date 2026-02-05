@@ -1,0 +1,12 @@
+# Physical exercises - bodyweight and strength training
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  {
+    ?item wdt:P31/wdt:P279* wd:Q450743 .  # instance of bodyweight exercise
+  } UNION {
+    ?item wdt:P279* wd:Q450743 .  # subclass of bodyweight exercise
+  }
+  ?item rdfs:label ?itemLabel .
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
+}
+LIMIT 500

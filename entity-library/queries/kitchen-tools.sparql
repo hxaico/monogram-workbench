@@ -1,0 +1,15 @@
+# Kitchen tools - types only
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  {
+    ?item wdt:P279+ wd:Q3773693 .  # subclass of kitchen utensil
+  } UNION {
+    ?item wdt:P279+ wd:Q154038 .   # subclass of cookware and bakeware
+  } UNION {
+    ?item wdt:P31 wd:Q123588392 .  # instance of "type of tool"
+    ?item wdt:P279* wd:Q1521410 .  # that is subclass of kitchenware
+  }
+  ?item rdfs:label ?itemLabel .
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(!REGEX(?itemLabel, "^Q[0-9]+$"))
+}
+LIMIT 500

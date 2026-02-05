@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Q465453",
+    "label": "dumbbell"
+  },
+  {
+    "id": "Q215058",
+    "label": "bokuto"
+  },
+  {
+    "id": "Q376762",
+    "label": "kettlebell"
+  },
+  {
+    "id": "Q383154",
+    "label": "cable machine"
+  },
+  {
+    "id": "Q839144",
+    "label": "treadmill"
+  },
+  {
+    "id": "Q1043897",
+    "label": "barbell"
+  },
+  {
+    "id": "Q967168",
+    "label": "hamster wheel"
+  },
+  {
+    "id": "Q925303",
+    "label": "heart rate monitor"
+  },
+  {
+    "id": "Q957820",
+    "label": "power rack"
+  },
+  {
+    "id": "Q1060174",
+    "label": "chin-up bar"
+  },
+  {
+    "id": "Q1141557",
+    "label": "elliptical trainer"
+  },
+  {
+    "id": "Q1207703",
+    "label": "jungle gym"
+  },
+  {
+    "id": "Q1304461",
+    "label": "medicine ball"
+  },
+  {
+    "id": "Q1370818",
+    "label": "stationary bicycle"
+  },
+  {
+    "id": "Q1422097",
+    "label": "bench"
+  },
+  {
+    "id": "Q1506083",
+    "label": "pogo stick"
+  },
+  {
+    "id": "Q1463093",
+    "label": "exercise ball"
+  },
+  {
+    "id": "Q1384233",
+    "label": "expander"
+  },
+  {
+    "id": "Q1435859",
+    "label": "grippers"
+  },
+  {
+    "id": "Q1480673",
+    "label": "horse walker"
+  },
+  {
+    "id": "Q2600531",
+    "label": "yoga mat"
+  },
+  {
+    "id": "Q1572397",
+    "label": "halteres"
+  },
+  {
+    "id": "Q1542861",
+    "label": "indoor rower"
+  },
+  {
+    "id": "Q2391458",
+    "label": "Tamburello"
+  },
+  {
+    "id": "Q1856307",
+    "label": "wall bars"
+  },
+  {
+    "id": "Q2090744",
+    "label": "Flybar"
+  },
+  {
+    "id": "Q2220762",
+    "label": "weight plate"
+  },
+  {
+    "id": "Q2069146",
+    "label": "suburitō"
+  },
+  {
+    "id": "Q2736972",
+    "label": "bicycle trainer"
+  },
+  {
+    "id": "Q4462390",
+    "label": "exercise machine"
+  },
+  {
+    "id": "Q5047502",
+    "label": "Carva"
+  },
+  {
+    "id": "Q2882175",
+    "label": "resistance band"
+  },
+  {
+    "id": "Q3274401",
+    "label": "weight machine"
+  },
+  {
+    "id": "Q3543817",
+    "label": "Smith machine"
+  },
+  {
+    "id": "Q4138573",
+    "label": "Ab wheel"
+  },
+  {
+    "id": "Q4366054",
+    "label": "pneumatic exercise equipment"
+  },
+  {
+    "id": "Q4996186",
+    "label": "Bulgarian bag"
+  },
+  {
+    "id": "Q5520421",
+    "label": "Gamut2"
+  },
+  {
+    "id": "Q7090380",
+    "label": "Omnidirectional treadmill"
+  },
+  {
+    "id": "Q7236651",
+    "label": "power tower"
+  },
+  {
+    "id": "Q123615651",
+    "label": "outdoor pull-up bar"
+  },
+  {
+    "id": "Q123900542",
+    "label": "Jacobs Ladder"
+  },
+  {
+    "id": "Q124255018",
+    "label": "dactylion"
+  },
+  {
+    "id": "Q126902422",
+    "label": "chest strap monitor"
+  },
+  {
+    "id": "Q126941384",
+    "label": "standing long jump mat"
+  },
+  {
+    "id": "Q126942325",
+    "label": "sit-and-reach box"
+  },
+  {
+    "id": "Q126943124",
+    "label": "gliding disc"
+  },
+  {
+    "id": "Q126949025",
+    "label": "leg press machine"
+  },
+  {
+    "id": "Q134984414",
+    "label": "direct drive trainer"
+  },
+  {
+    "id": "Q134984492",
+    "label": "Indoor gradient simulator"
+  },
+  {
+    "id": "Q117208662",
+    "label": "stair climber"
+  },
+  {
+    "id": "Q116958051",
+    "label": "dog treadmill"
+  },
+  {
+    "id": "Q117159111",
+    "label": "Hometrainer"
+  },
+  {
+    "id": "Q117208668",
+    "label": "exercise equipment mat"
+  },
+  {
+    "id": "Q117208679",
+    "label": "reaction ball"
+  },
+  {
+    "id": "Q117208663",
+    "label": "stair stepper"
+  },
+  {
+    "id": "Q117208682",
+    "label": "suspension trainer"
+  },
+  {
+    "id": "Q121793268",
+    "label": "adjustable dumbbell"
+  },
+  {
+    "id": "Q121818320",
+    "label": "agility ladder"
+  },
+  {
+    "id": "Q85815968",
+    "label": "Wizdish ROVR"
+  },
+  {
+    "id": "Q18891560",
+    "label": "skipping rope"
+  },
+  {
+    "id": "Q14573944",
+    "label": "Virtuix Omni"
+  },
+  {
+    "id": "Q16256436",
+    "label": "Cyberith Virtualizer"
+  },
+  {
+    "id": "Q20039883",
+    "label": "keiba tachi"
+  },
+  {
+    "id": "Q83491391",
+    "label": "Tunnel"
+  },
+  {
+    "id": "Q85878684",
+    "label": "Tou"
+  },
+  {
+    "id": "Q51846359",
+    "label": "ergometer"
+  },
+  {
+    "id": "Q56685914",
+    "label": "battle ropes"
+  },
+  {
+    "id": "Q65088374",
+    "label": "exercise weight"
+  },
+  {
+    "id": "Q107349989",
+    "label": "push-up grip"
+  },
+  {
+    "id": "Q107539625",
+    "label": "weight cuff"
+  },
+  {
+    "id": "Q107539665",
+    "label": "weight vest"
+  },
+  {
+    "id": "Q70477679",
+    "label": "yoga brick"
+  },
+  {
+    "id": "Q113450044",
+    "label": "jump box"
+  },
+  {
+    "id": "Q114348595",
+    "label": "Playpulse One"
+  },
+  {
+    "id": "Q116520408",
+    "label": "smart home trainer"
+  },
+  {
+    "id": "Q115792226",
+    "label": "outdoor fitness equipment"
+  },
+  {
+    "id": "Q84161760",
+    "label": "Tumble bar"
+  }
+]
